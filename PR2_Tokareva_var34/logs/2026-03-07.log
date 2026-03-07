@@ -1,0 +1,143 @@
+2026-03-07T08:33:08+0300 INFO: Запуск процесса из студии разработки. C:\Users\Frilex\Desktop\puzzlez\PR2_Tokareva_var34\process\Процесс 1.json
+2026-03-07T08:33:16+0300 INFO: Старт робота: C:\Users\Frilex\Desktop\puzzlez\PR2_Tokareva_var34\resource\81e4ddc8-2234-41db-8858-d15602539661\llirik_816.py
+2026-03-07T08:33:16+0300 ERROR: C:\Users\Frilex\Desktop\puzzlez\PR2_Tokareva_var34\resource\81e4ddc8-2234-41db-8858-d15602539661\llirik_816.py Ошибка: [Errno 2] No such file or directory: 'C:\\Users\\Frilex\\Desktop\\puzzlez\\PR2_Tokareva_var34\\resource\\AdCampaigns_Week1.xlsx'
+2026-03-07T08:33:16+0300 Окно выполнения: Процесс 1: ERROR:  ["[Errno 2] No such file or directory: 'C:\\\\Users\\\\Frilex\\\\Desktop\\\\puzzlez\\\\PR2_Tokareva_var34\\\\resource\\\\AdCampaigns_Week1.xlsx'"]
+2026-03-07T08:33:29+0300 ERROR: Завершение выполнения процесса. C:\Users\Frilex\Desktop\puzzlez\PR2_Tokareva_var34\process\Процесс 1.json
+2026-03-07T08:34:05+0300 INFO: Запуск процесса из студии разработки. C:\Users\Frilex\Desktop\puzzlez\PR2_Tokareva_var34\process\Процесс 1.json
+2026-03-07T08:34:07+0300 INFO: Старт робота: C:\Users\Frilex\Desktop\puzzlez\PR2_Tokareva_var34\resource\5cb2697c-56be-490d-9386-888a5246203f\llirik_816.py
+2026-03-07T08:34:37+0300 INFO: Завершение работы робота: C:\Users\Frilex\Desktop\puzzlez\PR2_Tokareva_var34\resource\5cb2697c-56be-490d-9386-888a5246203f\llirik_816.py
+2026-03-07T08:34:38+0300 INFO: Завершение выполнения процесса. C:\Users\Frilex\Desktop\puzzlez\PR2_Tokareva_var34\process\Процесс 1.json
+2026-03-07T09:26:50+0300 INFO: Запуск процесса из студии разработки. C:\Users\Frilex\Desktop\puzzlez\PR2_Tokareva_var34\process\Процесс 1.json
+2026-03-07T09:26:52+0300 INFO: Старт робота: C:\Users\Frilex\Desktop\puzzlez\PR2_Tokareva_var34\resource\db3ac8e0-1690-4a07-9411-57e262e3c885\llirik_816.py
+2026-03-07T09:27:04+0300 INFO: Завершение работы робота: C:\Users\Frilex\Desktop\puzzlez\PR2_Tokareva_var34\resource\db3ac8e0-1690-4a07-9411-57e262e3c885\llirik_816.py
+2026-03-07T09:27:05+0300 INFO: Завершение выполнения процесса. C:\Users\Frilex\Desktop\puzzlez\PR2_Tokareva_var34\process\Процесс 1.json
+2026-03-07T10:01:39+0300 INFO: Запуск процесса из студии разработки. C:\Users\Frilex\Desktop\puzzlez\PR2_Tokareva_var34\process\Процесс 1.json
+2026-03-07T10:01:46+0300 INFO: Старт робота: C:\Users\Frilex\Desktop\puzzlez\PR2_Tokareva_var34\resource\8d6f11ce-5373-4178-9440-9c7578a24488\llirik_816.py
+2026-03-07T10:01:58+0300 INFO: Завершение работы робота: C:\Users\Frilex\Desktop\puzzlez\PR2_Tokareva_var34\resource\8d6f11ce-5373-4178-9440-9c7578a24488\llirik_816.py
+2026-03-07T10:01:59+0300 INFO: Завершение выполнения процесса. C:\Users\Frilex\Desktop\puzzlez\PR2_Tokareva_var34\process\Процесс 1.json
+2026-03-07T10:02:46+0300 INFO: Запуск процесса из студии разработки. C:\Users\Frilex\Desktop\puzzlez\PR2_Tokareva_var34\process\Процесс 1.json
+2026-03-07T10:02:48+0300 INFO: Старт робота: C:\Users\Frilex\Desktop\puzzlez\PR2_Tokareva_var34\resource\62da6149-6385-485c-aad1-3c2e800ab817\llirik_816.py
+2026-03-07T10:02:55+0300 INFO: Завершение работы робота: C:\Users\Frilex\Desktop\puzzlez\PR2_Tokareva_var34\resource\62da6149-6385-485c-aad1-3c2e800ab817\llirik_816.py
+2026-03-07T10:02:56+0300 INFO: Завершение выполнения процесса. C:\Users\Frilex\Desktop\puzzlez\PR2_Tokareva_var34\process\Процесс 1.json
+2026-03-07T10:03:12+0300 INFO: Запуск процесса из студии разработки. C:\Users\Frilex\Desktop\puzzlez\PR2_Tokareva_var34\process\Процесс 1.json
+2026-03-07T10:03:13+0300 INFO: Старт робота: C:\Users\Frilex\Desktop\puzzlez\PR2_Tokareva_var34\resource\ae479184-a683-4ad8-b842-98ee3d6f421a\llirik_816.py
+2026-03-07T10:03:28+0300 INFO: Завершение работы робота: C:\Users\Frilex\Desktop\puzzlez\PR2_Tokareva_var34\resource\ae479184-a683-4ad8-b842-98ee3d6f421a\llirik_816.py
+2026-03-07T10:03:29+0300 INFO: Завершение выполнения процесса. C:\Users\Frilex\Desktop\puzzlez\PR2_Tokareva_var34\process\Процесс 1.json
+2026-03-07T10:03:50+0300 INFO: Запуск процесса из студии разработки. C:\Users\Frilex\Desktop\puzzlez\PR2_Tokareva_var34\process\Процесс 1.json
+2026-03-07T10:03:52+0300 INFO: Старт робота: C:\Users\Frilex\Desktop\puzzlez\PR2_Tokareva_var34\resource\e3710587-cec5-478b-9871-69bd64afd75c\llirik_816.py
+2026-03-07T10:04:16+0300 INFO: Завершение работы робота: C:\Users\Frilex\Desktop\puzzlez\PR2_Tokareva_var34\resource\e3710587-cec5-478b-9871-69bd64afd75c\llirik_816.py
+2026-03-07T10:04:17+0300 INFO: Завершение выполнения процесса. C:\Users\Frilex\Desktop\puzzlez\PR2_Tokareva_var34\process\Процесс 1.json
+2026-03-07T10:07:12+0300 INFO: Запуск процесса из студии разработки. C:\Users\Frilex\Desktop\puzzlez\PR2_Tokareva_var34\process\Процесс 1.json
+2026-03-07T10:07:14+0300 INFO: Старт робота: C:\Users\Frilex\Desktop\puzzlez\PR2_Tokareva_var34\resource\9b6ce59d-cc36-4d26-998f-1c1ef1a9231b\llirik_816.py
+2026-03-07T10:07:21+0300 INFO: Завершение работы робота: C:\Users\Frilex\Desktop\puzzlez\PR2_Tokareva_var34\resource\9b6ce59d-cc36-4d26-998f-1c1ef1a9231b\llirik_816.py
+2026-03-07T10:07:22+0300 INFO: Завершение выполнения процесса. C:\Users\Frilex\Desktop\puzzlez\PR2_Tokareva_var34\process\Процесс 1.json
+2026-03-07T10:18:26+0300 INFO: Запуск процесса из студии разработки. C:\Users\Frilex\Desktop\puzzlez\PR2_Tokareva_var34\process\Процесс 1.json
+2026-03-07T10:18:27+0300 INFO: Старт робота: C:\Users\Frilex\Desktop\puzzlez\PR2_Tokareva_var34\resource\2acc1d6f-df84-4e45-ac88-d85ed594b54f\llirik_816.py
+2026-03-07T10:18:31+0300 ERROR: C:\Users\Frilex\Desktop\puzzlez\PR2_Tokareva_var34\resource\2acc1d6f-df84-4e45-ac88-d85ed594b54f\llirik_816.py Ошибка: 'CampaignID'
+2026-03-07T10:18:31+0300 Окно выполнения: Процесс 1: ERROR:  ["'CampaignID'"]
+2026-03-07T10:18:35+0300 ERROR: Завершение выполнения процесса. C:\Users\Frilex\Desktop\puzzlez\PR2_Tokareva_var34\process\Процесс 1.json
+2026-03-07T10:21:54+0300 INFO: Запуск процесса из студии разработки. C:\Users\Frilex\Desktop\puzzlez\PR2_Tokareva_var34\process\Процесс 1.json
+2026-03-07T10:21:55+0300 INFO: Старт робота: C:\Users\Frilex\Desktop\puzzlez\PR2_Tokareva_var34\resource\9a3f6d95-7390-48f6-9906-23a91db72080\llirik_816.py
+2026-03-07T10:22:01+0300 ERROR: C:\Users\Frilex\Desktop\puzzlez\PR2_Tokareva_var34\resource\9a3f6d95-7390-48f6-9906-23a91db72080\llirik_816.py Ошибка: string indices must be integers, not 'str'
+2026-03-07T10:22:01+0300 Окно выполнения: Процесс 1: ERROR:  ["string indices must be integers, not 'str'"]
+2026-03-07T10:22:04+0300 ERROR: Завершение выполнения процесса. C:\Users\Frilex\Desktop\puzzlez\PR2_Tokareva_var34\process\Процесс 1.json
+2026-03-07T10:23:10+0300 INFO: Запуск процесса из студии разработки. C:\Users\Frilex\Desktop\puzzlez\PR2_Tokareva_var34\process\Процесс 1.json
+2026-03-07T10:23:12+0300 INFO: Старт робота: C:\Users\Frilex\Desktop\puzzlez\PR2_Tokareva_var34\resource\dd52344b-ee16-47aa-8dd6-67f01381af19\llirik_816.py
+2026-03-07T10:23:13+0300 INFO: Завершение выполнения процесса. C:\Users\Frilex\Desktop\puzzlez\PR2_Tokareva_var34\process\Процесс 1.json
+2026-03-07T10:23:35+0300 INFO: Запуск процесса из студии разработки. C:\Users\Frilex\Desktop\puzzlez\PR2_Tokareva_var34\process\Процесс 1.json
+2026-03-07T10:23:36+0300 INFO: Старт робота: C:\Users\Frilex\Desktop\puzzlez\PR2_Tokareva_var34\resource\39959189-507b-4d40-b1ce-c855de3db5c3\llirik_816.py
+2026-03-07T10:23:41+0300 ERROR: C:\Users\Frilex\Desktop\puzzlez\PR2_Tokareva_var34\resource\39959189-507b-4d40-b1ce-c855de3db5c3\llirik_816.py Ошибка: string indices must be integers, not 'str'
+2026-03-07T10:23:41+0300 Окно выполнения: Процесс 1: ERROR:  ["string indices must be integers, not 'str'"]
+2026-03-07T10:23:47+0300 ERROR: Завершение выполнения процесса. C:\Users\Frilex\Desktop\puzzlez\PR2_Tokareva_var34\process\Процесс 1.json
+2026-03-07T10:28:19+0300 INFO: Запуск процесса из студии разработки. C:\Users\Frilex\Desktop\puzzlez\PR2_Tokareva_var34\process\Процесс 1.json
+2026-03-07T10:28:21+0300 INFO: Старт робота: C:\Users\Frilex\Desktop\puzzlez\PR2_Tokareva_var34\resource\6ec1912a-ce03-45e9-981c-1e8126a4c84c\llirik_816.py
+2026-03-07T10:28:45+0300 ERROR: C:\Users\Frilex\Desktop\puzzlez\PR2_Tokareva_var34\resource\6ec1912a-ce03-45e9-981c-1e8126a4c84c\llirik_816.py Ошибка: string indices must be integers, not 'str'
+2026-03-07T10:28:45+0300 Окно выполнения: Процесс 1: ERROR:  ["string indices must be integers, not 'str'"]
+2026-03-07T10:28:53+0300 ERROR: Завершение выполнения процесса. C:\Users\Frilex\Desktop\puzzlez\PR2_Tokareva_var34\process\Процесс 1.json
+2026-03-07T10:32:12+0300 INFO: Запуск процесса из студии разработки. C:\Users\Frilex\Desktop\puzzlez\PR2_Tokareva_var34\process\Процесс 1.json
+2026-03-07T10:32:13+0300 INFO: Старт робота: C:\Users\Frilex\Desktop\puzzlez\PR2_Tokareva_var34\resource\e077b2c9-2426-42f2-b78b-0143793fea47\llirik_816.py
+2026-03-07T10:32:17+0300 ERROR: C:\Users\Frilex\Desktop\puzzlez\PR2_Tokareva_var34\resource\e077b2c9-2426-42f2-b78b-0143793fea47\llirik_816.py Ошибка: string indices must be integers, not 'str'
+2026-03-07T10:32:17+0300 Окно выполнения: Процесс 1: ERROR:  ["string indices must be integers, not 'str'"]
+2026-03-07T10:32:20+0300 ERROR: Завершение выполнения процесса. C:\Users\Frilex\Desktop\puzzlez\PR2_Tokareva_var34\process\Процесс 1.json
+2026-03-07T10:33:23+0300 INFO: Запуск процесса из студии разработки. C:\Users\Frilex\Desktop\puzzlez\PR2_Tokareva_var34\process\Процесс 1.json
+2026-03-07T10:33:24+0300 INFO: Старт робота: C:\Users\Frilex\Desktop\puzzlez\PR2_Tokareva_var34\resource\5ef81a0c-2b51-4d61-99e0-638a5634a9c7\llirik_816.py
+2026-03-07T10:33:50+0300 INFO: Завершение выполнения процесса. C:\Users\Frilex\Desktop\puzzlez\PR2_Tokareva_var34\process\Процесс 1.json
+2026-03-07T10:45:10+0300 INFO: Запуск процесса из студии разработки. C:\Users\Frilex\Desktop\puzzlez\PR2_Tokareva_var34\process\Процесс 1.json
+2026-03-07T10:45:12+0300 INFO: Старт робота: C:\Users\Frilex\Desktop\puzzlez\PR2_Tokareva_var34\resource\9b867846-65cb-4751-8766-b806fc8ba965\llirik_816.py
+2026-03-07T10:45:27+0300 INFO: Завершение выполнения процесса. C:\Users\Frilex\Desktop\puzzlez\PR2_Tokareva_var34\process\Процесс 1.json
+2026-03-07T10:45:52+0300 INFO: Запуск процесса из студии разработки. C:\Users\Frilex\Desktop\puzzlez\PR2_Tokareva_var34\process\Процесс 1.json
+2026-03-07T10:45:54+0300 INFO: Старт робота: C:\Users\Frilex\Desktop\puzzlez\PR2_Tokareva_var34\resource\de94bbec-60fd-4a4e-9309-e5ea3beb2d13\llirik_816.py
+2026-03-07T10:46:02+0300 INFO: Завершение выполнения процесса. C:\Users\Frilex\Desktop\puzzlez\PR2_Tokareva_var34\process\Процесс 1.json
+2026-03-07T10:46:09+0300 INFO: Запуск процесса из студии разработки. C:\Users\Frilex\Desktop\puzzlez\PR2_Tokareva_var34\process\Процесс 1.json
+2026-03-07T10:46:11+0300 INFO: Старт робота: C:\Users\Frilex\Desktop\puzzlez\PR2_Tokareva_var34\resource\d62de0eb-fe04-45c3-ba7d-2a6a7bcd3eb7\llirik_816.py
+2026-03-07T10:46:40+0300 INFO: Завершение работы робота: C:\Users\Frilex\Desktop\puzzlez\PR2_Tokareva_var34\resource\d62de0eb-fe04-45c3-ba7d-2a6a7bcd3eb7\llirik_816.py
+2026-03-07T10:46:41+0300 INFO: Завершение выполнения процесса. C:\Users\Frilex\Desktop\puzzlez\PR2_Tokareva_var34\process\Процесс 1.json
+2026-03-07T10:49:17+0300 INFO: Запуск процесса из студии разработки. C:\Users\Frilex\Desktop\puzzlez\PR2_Tokareva_var34\process\Процесс 1.json
+2026-03-07T10:49:18+0300 INFO: Старт робота: C:\Users\Frilex\Desktop\puzzlez\PR2_Tokareva_var34\resource\a6513c9b-0c54-4a09-8888-261baa460e68\llirik_816.py
+2026-03-07T10:49:25+0300 INFO: Завершение выполнения процесса. C:\Users\Frilex\Desktop\puzzlez\PR2_Tokareva_var34\process\Процесс 1.json
+2026-03-07T10:51:50+0300 INFO: Запуск процесса из студии разработки. C:\Users\Frilex\Desktop\puzzlez\PR2_Tokareva_var34\process\Процесс 1.json
+2026-03-07T10:51:51+0300 INFO: Старт робота: C:\Users\Frilex\Desktop\puzzlez\PR2_Tokareva_var34\resource\93c04024-86aa-4e0d-b7ed-ff578c4c40df\llirik_816.py
+2026-03-07T10:52:25+0300 INFO: Завершение выполнения процесса. C:\Users\Frilex\Desktop\puzzlez\PR2_Tokareva_var34\process\Процесс 1.json
+2026-03-07T11:39:20+0300 INFO: Запуск процесса из студии разработки. C:\Users\Frilex\Desktop\puzzlez\PR2_Tokareva_var34\process\Процесс 1.json
+2026-03-07T11:39:22+0300 INFO: Старт робота: C:\Users\Frilex\Desktop\puzzlez\PR2_Tokareva_var34\resource\1b30c4e0-174a-4c82-95e1-a40c837a556b\llirik_816.py
+2026-03-07T11:39:26+0300 INFO: Завершение работы робота: C:\Users\Frilex\Desktop\puzzlez\PR2_Tokareva_var34\resource\1b30c4e0-174a-4c82-95e1-a40c837a556b\llirik_816.py
+2026-03-07T11:39:26+0300 INFO: Завершение выполнения процесса. C:\Users\Frilex\Desktop\puzzlez\PR2_Tokareva_var34\process\Процесс 1.json
+2026-03-07T11:45:26+0300 INFO: Запуск процесса из студии разработки. C:\Users\Frilex\Desktop\puzzlez\PR2_Tokareva_var34\process\Процесс 1.json
+2026-03-07T11:45:28+0300 INFO: Старт робота: C:\Users\Frilex\Desktop\puzzlez\PR2_Tokareva_var34\resource\9423e1ff-7110-40ce-bf9f-9efad02d96ee\llirik_816.py
+2026-03-07T11:45:30+0300 INFO: Завершение работы робота: C:\Users\Frilex\Desktop\puzzlez\PR2_Tokareva_var34\resource\9423e1ff-7110-40ce-bf9f-9efad02d96ee\llirik_816.py
+2026-03-07T11:45:31+0300 INFO: Завершение выполнения процесса. C:\Users\Frilex\Desktop\puzzlez\PR2_Tokareva_var34\process\Процесс 1.json
+2026-03-07T11:50:14+0300 INFO: Запуск процесса из студии разработки. C:\Users\Frilex\Desktop\puzzlez\PR2_Tokareva_var34\process\Процесс 1.json
+2026-03-07T11:50:16+0300 INFO: Старт робота: C:\Users\Frilex\Desktop\puzzlez\PR2_Tokareva_var34\resource\e2d52bd0-f57b-4273-938b-b3ae757c5237\llirik_816.py
+2026-03-07T11:50:24+0300 INFO: Завершение выполнения процесса. C:\Users\Frilex\Desktop\puzzlez\PR2_Tokareva_var34\process\Процесс 1.json
+2026-03-07T11:52:40+0300 INFO: Запуск процесса из студии разработки. C:\Users\Frilex\Desktop\puzzlez\PR2_Tokareva_var34\process\Процесс 1.json
+2026-03-07T11:52:42+0300 INFO: Старт робота: C:\Users\Frilex\Desktop\puzzlez\PR2_Tokareva_var34\resource\7bdd9cbb-f60a-4eba-8076-63e00cdeb0c2\llirik_816.py
+2026-03-07T11:52:52+0300 INFO: Завершение работы робота: C:\Users\Frilex\Desktop\puzzlez\PR2_Tokareva_var34\resource\7bdd9cbb-f60a-4eba-8076-63e00cdeb0c2\llirik_816.py
+2026-03-07T11:52:53+0300 INFO: Завершение выполнения процесса. C:\Users\Frilex\Desktop\puzzlez\PR2_Tokareva_var34\process\Процесс 1.json
+2026-03-07T11:54:22+0300 INFO: Запуск процесса из студии разработки. C:\Users\Frilex\Desktop\puzzlez\PR2_Tokareva_var34\process\Процесс 1.json
+2026-03-07T11:54:24+0300 INFO: Старт робота: C:\Users\Frilex\Desktop\puzzlez\PR2_Tokareva_var34\resource\26fa461f-7e10-4fc1-a4d8-17d3d6259592\llirik_816.py
+2026-03-07T11:54:38+0300 INFO: Завершение работы робота: C:\Users\Frilex\Desktop\puzzlez\PR2_Tokareva_var34\resource\26fa461f-7e10-4fc1-a4d8-17d3d6259592\llirik_816.py
+2026-03-07T11:54:39+0300 INFO: Завершение выполнения процесса. C:\Users\Frilex\Desktop\puzzlez\PR2_Tokareva_var34\process\Процесс 1.json
+2026-03-07T11:56:24+0300 INFO: Запуск процесса из студии разработки. C:\Users\Frilex\Desktop\puzzlez\PR2_Tokareva_var34\process\Процесс 1.json
+2026-03-07T11:56:26+0300 INFO: Старт робота: C:\Users\Frilex\Desktop\puzzlez\PR2_Tokareva_var34\resource\a11e1f39-7599-4cf8-a3b5-809fc2826e41\llirik_816.py
+2026-03-07T11:56:34+0300 INFO: Завершение работы робота: C:\Users\Frilex\Desktop\puzzlez\PR2_Tokareva_var34\resource\a11e1f39-7599-4cf8-a3b5-809fc2826e41\llirik_816.py
+2026-03-07T11:56:35+0300 INFO: Завершение выполнения процесса. C:\Users\Frilex\Desktop\puzzlez\PR2_Tokareva_var34\process\Процесс 1.json
+2026-03-07T11:58:51+0300 INFO: Запуск процесса из студии разработки. C:\Users\Frilex\Desktop\puzzlez\PR2_Tokareva_var34\process\Процесс 1.json
+2026-03-07T11:58:53+0300 INFO: Старт робота: C:\Users\Frilex\Desktop\puzzlez\PR2_Tokareva_var34\resource\5946a7e5-c1f0-447f-a066-ffbf78b95627\llirik_816.py
+2026-03-07T11:58:58+0300 ERROR: C:\Users\Frilex\Desktop\puzzlez\PR2_Tokareva_var34\resource\5946a7e5-c1f0-447f-a066-ffbf78b95627\llirik_816.py Ошибка: name 'total_campaigns' is not defined
+2026-03-07T11:58:58+0300 Окно выполнения: Процесс 1: ERROR:  ["name 'total_campaigns' is not defined"]
+2026-03-07T11:59:07+0300 ERROR: Завершение выполнения процесса. C:\Users\Frilex\Desktop\puzzlez\PR2_Tokareva_var34\process\Процесс 1.json
+2026-03-07T11:59:47+0300 INFO: Запуск процесса из студии разработки. C:\Users\Frilex\Desktop\puzzlez\PR2_Tokareva_var34\process\Процесс 1.json
+2026-03-07T11:59:49+0300 INFO: Старт робота: C:\Users\Frilex\Desktop\puzzlez\PR2_Tokareva_var34\resource\3cd41f9f-43bb-432c-8819-0cd4fea2722e\llirik_816.py
+2026-03-07T12:00:00+0300 INFO: Завершение работы робота: C:\Users\Frilex\Desktop\puzzlez\PR2_Tokareva_var34\resource\3cd41f9f-43bb-432c-8819-0cd4fea2722e\llirik_816.py
+2026-03-07T12:00:01+0300 INFO: Завершение выполнения процесса. C:\Users\Frilex\Desktop\puzzlez\PR2_Tokareva_var34\process\Процесс 1.json
+2026-03-07T12:00:09+0300 INFO: Запуск процесса из студии разработки. C:\Users\Frilex\Desktop\puzzlez\PR2_Tokareva_var34\process\Процесс 1.json
+2026-03-07T12:00:11+0300 INFO: Старт робота: C:\Users\Frilex\Desktop\puzzlez\PR2_Tokareva_var34\resource\9286bb96-a4e0-4b96-8113-65b94fcad3e9\llirik_816.py
+2026-03-07T12:00:24+0300 INFO: Завершение работы робота: C:\Users\Frilex\Desktop\puzzlez\PR2_Tokareva_var34\resource\9286bb96-a4e0-4b96-8113-65b94fcad3e9\llirik_816.py
+2026-03-07T12:00:25+0300 INFO: Завершение выполнения процесса. C:\Users\Frilex\Desktop\puzzlez\PR2_Tokareva_var34\process\Процесс 1.json
+2026-03-07T12:01:27+0300 INFO: Запуск процесса из студии разработки. C:\Users\Frilex\Desktop\puzzlez\PR2_Tokareva_var34\process\Процесс 1.json
+2026-03-07T12:01:29+0300 INFO: Старт робота: C:\Users\Frilex\Desktop\puzzlez\PR2_Tokareva_var34\resource\f480b69d-8543-4bb4-9898-7904731b7ffc\llirik_816.py
+2026-03-07T12:01:33+0300 INFO: Завершение работы робота: C:\Users\Frilex\Desktop\puzzlez\PR2_Tokareva_var34\resource\f480b69d-8543-4bb4-9898-7904731b7ffc\llirik_816.py
+2026-03-07T12:01:34+0300 INFO: Завершение выполнения процесса. C:\Users\Frilex\Desktop\puzzlez\PR2_Tokareva_var34\process\Процесс 1.json
+2026-03-07T12:04:08+0300 INFO: Запуск процесса из студии разработки. C:\Users\Frilex\Desktop\puzzlez\PR2_Tokareva_var34\process\Процесс 1.json
+2026-03-07T12:04:10+0300 INFO: Старт робота: C:\Users\Frilex\Desktop\puzzlez\PR2_Tokareva_var34\resource\1e61bbad-194d-4e6f-8bcd-d7dca2ca58fa\llirik_816.py
+2026-03-07T12:04:15+0300 INFO: Завершение работы робота: C:\Users\Frilex\Desktop\puzzlez\PR2_Tokareva_var34\resource\1e61bbad-194d-4e6f-8bcd-d7dca2ca58fa\llirik_816.py
+2026-03-07T12:04:16+0300 INFO: Завершение выполнения процесса. C:\Users\Frilex\Desktop\puzzlez\PR2_Tokareva_var34\process\Процесс 1.json
+2026-03-07T13:08:02+0300 INFO: Запуск процесса из студии разработки. C:\Users\Frilex\Desktop\puzzlez\PR2_Tokareva_var34\process\Процесс 2.json
+2026-03-07T13:08:04+0300 INFO: Старт робота: C:\Users\Frilex\Desktop\puzzlez\PR2_Tokareva_var34\resource\a01b11e8-7db2-4e72-8e39-0ce304746603\pilot_8.py
+2026-03-07T13:08:28+0300 ERROR: C:\Users\Frilex\Desktop\puzzlez\PR2_Tokareva_var34\resource\a01b11e8-7db2-4e72-8e39-0ce304746603\pilot_8.py Ошибка: cannot access local variable 'total_campaign' where it is not associated with a value
+2026-03-07T13:08:28+0300 Окно выполнения: Процесс 2: ERROR:  ["cannot access local variable 'total_campaign' where it is not associated with a value"]
+2026-03-07T13:08:31+0300 ERROR: Завершение выполнения процесса. C:\Users\Frilex\Desktop\puzzlez\PR2_Tokareva_var34\process\Процесс 2.json
+2026-03-07T13:09:12+0300 INFO: Запуск процесса из студии разработки. C:\Users\Frilex\Desktop\puzzlez\PR2_Tokareva_var34\process\Процесс 2.json
+2026-03-07T13:09:14+0300 INFO: Старт робота: C:\Users\Frilex\Desktop\puzzlez\PR2_Tokareva_var34\resource\6604acd7-6f06-49ab-a837-81345a2cafd4\pilot_8.py
+2026-03-07T13:09:16+0300 ERROR: C:\Users\Frilex\Desktop\puzzlez\PR2_Tokareva_var34\resource\6604acd7-6f06-49ab-a837-81345a2cafd4\pilot_8.py Ошибка: name 'total_campaign' is not defined
+2026-03-07T13:09:16+0300 Окно выполнения: Процесс 2: ERROR:  ["name 'total_campaign' is not defined"]
+2026-03-07T13:09:19+0300 ERROR: Завершение выполнения процесса. C:\Users\Frilex\Desktop\puzzlez\PR2_Tokareva_var34\process\Процесс 2.json
+2026-03-07T13:09:46+0300 INFO: Запуск процесса из студии разработки. C:\Users\Frilex\Desktop\puzzlez\PR2_Tokareva_var34\process\Процесс 2.json
+2026-03-07T13:09:47+0300 INFO: Старт робота: C:\Users\Frilex\Desktop\puzzlez\PR2_Tokareva_var34\resource\60ed2676-64fd-43f3-a292-521a3357d84e\pilot_8.py
+2026-03-07T13:09:49+0300 ERROR: C:\Users\Frilex\Desktop\puzzlez\PR2_Tokareva_var34\resource\60ed2676-64fd-43f3-a292-521a3357d84e\pilot_8.py Ошибка: cannot access local variable 'risk_category' where it is not associated with a value
+2026-03-07T13:09:49+0300 Окно выполнения: Процесс 2: ERROR:  ["cannot access local variable 'risk_category' where it is not associated with a value"]
+2026-03-07T13:09:55+0300 ERROR: Завершение выполнения процесса. C:\Users\Frilex\Desktop\puzzlez\PR2_Tokareva_var34\process\Процесс 2.json
+2026-03-07T13:11:01+0300 INFO: Запуск процесса из студии разработки. C:\Users\Frilex\Desktop\puzzlez\PR2_Tokareva_var34\process\Процесс 2.json
+2026-03-07T13:11:03+0300 INFO: Старт робота: C:\Users\Frilex\Desktop\puzzlez\PR2_Tokareva_var34\resource\e8a0d90a-8ef7-4f2f-ba9b-c81636f9241e\pilot_8.py
+2026-03-07T13:11:14+0300 INFO: Завершение работы робота: C:\Users\Frilex\Desktop\puzzlez\PR2_Tokareva_var34\resource\e8a0d90a-8ef7-4f2f-ba9b-c81636f9241e\pilot_8.py
+2026-03-07T13:11:15+0300 INFO: Завершение выполнения процесса. C:\Users\Frilex\Desktop\puzzlez\PR2_Tokareva_var34\process\Процесс 2.json
