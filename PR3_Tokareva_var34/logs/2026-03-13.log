@@ -1,0 +1,41 @@
+2026-03-13T00:14:18+0300 INFO: Старт робота: C:\Program Files\PuzzleRPA\2.3.0\Studio\resources\_tmp\projects\PR3_Tokareva_var34\resource\ba434684-230f-4ea5-a116-ae60b96dee11\robo_921.py
+2026-03-13T00:14:18+0300 ERROR: C:\Program Files\PuzzleRPA\2.3.0\Studio\resources\_tmp\projects\PR3_Tokareva_var34\resource\ba434684-230f-4ea5-a116-ae60b96dee11\robo_921.py Ошибка: 'str' object has no attribute 'values'
+2026-03-13T00:19:32+0300 INFO: Старт робота: C:\Program Files\PuzzleRPA\2.3.0\Studio\resources\_tmp\projects\PR3_Tokareva_var34\resource\8fa256cb-d337-4ca7-808d-b2011548ad6d\robo_921.py
+2026-03-13T00:19:33+0300 ERROR: C:\Program Files\PuzzleRPA\2.3.0\Studio\resources\_tmp\projects\PR3_Tokareva_var34\resource\8fa256cb-d337-4ca7-808d-b2011548ad6d\robo_921.py Ошибка: argument of type 'int' is not iterable
+2026-03-13T00:21:43+0300 INFO: Старт робота: C:\Program Files\PuzzleRPA\2.3.0\Studio\resources\_tmp\projects\PR3_Tokareva_var34\resource\19d65d62-3fc5-4885-9a94-62a4bea4f646\robo_921.py
+2026-03-13T00:21:43+0300 ERROR: C:\Program Files\PuzzleRPA\2.3.0\Studio\resources\_tmp\projects\PR3_Tokareva_var34\resource\19d65d62-3fc5-4885-9a94-62a4bea4f646\robo_921.py Ошибка: argument of type 'int' is not iterable
+2026-03-13T00:24:08+0300 INFO: Старт робота: C:\Program Files\PuzzleRPA\2.3.0\Studio\resources\_tmp\projects\PR3_Tokareva_var34\resource\1b75620e-a42e-4a08-adff-e66a98bf0f7c\robo_921.py
+2026-03-13T00:24:08+0300 ERROR: C:\Program Files\PuzzleRPA\2.3.0\Studio\resources\_tmp\projects\PR3_Tokareva_var34\resource\1b75620e-a42e-4a08-adff-e66a98bf0f7c\robo_921.py Ошибка: argument of type 'int' is not iterable
+2026-03-13T00:25:25+0300 INFO: Старт робота: C:\Program Files\PuzzleRPA\2.3.0\Studio\resources\_tmp\projects\PR3_Tokareva_var34\resource\02c3e0bc-d731-4977-89bc-2b5419dc3226\robo_921.py
+2026-03-13T00:25:25+0300 ERROR: C:\Program Files\PuzzleRPA\2.3.0\Studio\resources\_tmp\projects\PR3_Tokareva_var34\resource\02c3e0bc-d731-4977-89bc-2b5419dc3226\robo_921.py Ошибка: argument of type 'int' is not iterable
+2026-03-13T00:25:37+0300 INFO: Старт робота: C:\Program Files\PuzzleRPA\2.3.0\Studio\resources\_tmp\projects\PR3_Tokareva_var34\resource\248763f5-4b1b-4a7c-b12c-ade19d88458a\robo_921.py
+2026-03-13T00:25:37+0300 ERROR: C:\Program Files\PuzzleRPA\2.3.0\Studio\resources\_tmp\projects\PR3_Tokareva_var34\resource\248763f5-4b1b-4a7c-b12c-ade19d88458a\robo_921.py Ошибка: argument of type 'int' is not iterable
+2026-03-13T00:27:10+0300 INFO: Старт робота: C:\Program Files\PuzzleRPA\2.3.0\Studio\resources\_tmp\projects\PR3_Tokareva_var34\resource\5f53c7af-caed-4fd4-8b33-89efb54f1c81\robo_921.py
+2026-03-13T00:27:27+0300 INFO: Завершение работы робота: C:\Program Files\PuzzleRPA\2.3.0\Studio\resources\_tmp\projects\PR3_Tokareva_var34\resource\5f53c7af-caed-4fd4-8b33-89efb54f1c81\robo_921.py
+2026-03-13T00:32:19+0300 INFO: Старт робота: C:\Program Files\PuzzleRPA\2.3.0\Studio\resources\_tmp\projects\PR3_Tokareva_var34\resource\d32134c3-4d54-4ae0-aaed-6da256c03ae2\robo_921.py
+2026-03-13T00:32:37+0300 INFO: Завершение работы робота: C:\Program Files\PuzzleRPA\2.3.0\Studio\resources\_tmp\projects\PR3_Tokareva_var34\resource\d32134c3-4d54-4ae0-aaed-6da256c03ae2\robo_921.py
+2026-03-13T12:00:30+0300 INFO: Запуск процесса из студии разработки. C:\Users\Frilex\Desktop\puzzlez\PR3_Tokareva_var34\process\Процесс 1.json
+2026-03-13T12:00:33+0300 INFO: Старт робота: C:\Users\Frilex\Desktop\puzzlez\PR3_Tokareva_var34\resource\b19dc98f-7749-4787-921e-8051033f22bd\robo_921.py
+2026-03-13T12:00:33+0300 ERROR: C:\Users\Frilex\Desktop\puzzlez\PR3_Tokareva_var34\resource\b19dc98f-7749-4787-921e-8051033f22bd\robo_921.py Ошибка: argument of type 'int' is not iterable
+2026-03-13T12:00:34+0300 Окно выполнения: Процесс 1: ERROR:  ["argument of type 'int' is not iterable"]
+2026-03-13T12:00:40+0300 ERROR: Завершение выполнения процесса. C:\Users\Frilex\Desktop\puzzlez\PR3_Tokareva_var34\process\Процесс 1.json
+2026-03-13T12:01:38+0300 INFO: Запуск процесса из студии разработки. C:\Users\Frilex\Desktop\puzzlez\PR3_Tokareva_var34\process\Процесс 1.json
+2026-03-13T12:01:39+0300 INFO: Старт робота: C:\Users\Frilex\Desktop\puzzlez\PR3_Tokareva_var34\resource\eddcb401-95e7-475c-adaf-2a3352f7be73\robo_921.py
+2026-03-13T12:01:48+0300 INFO: Завершение работы робота: C:\Users\Frilex\Desktop\puzzlez\PR3_Tokareva_var34\resource\eddcb401-95e7-475c-adaf-2a3352f7be73\robo_921.py
+2026-03-13T12:01:49+0300 INFO: Завершение выполнения процесса. C:\Users\Frilex\Desktop\puzzlez\PR3_Tokareva_var34\process\Процесс 1.json
+2026-03-13T12:15:08+0300 INFO: Запуск процесса из студии разработки. C:\Users\Frilex\Desktop\puzzlez\PR3_Tokareva_var34\process\Процесс 1.json
+2026-03-13T12:15:09+0300 INFO: Старт робота: C:\Users\Frilex\Desktop\puzzlez\PR3_Tokareva_var34\resource\af321fc6-7667-4bd1-8342-4127ef843192\robo_921.py
+2026-03-13T12:15:25+0300 INFO: Завершение работы робота: C:\Users\Frilex\Desktop\puzzlez\PR3_Tokareva_var34\resource\af321fc6-7667-4bd1-8342-4127ef843192\robo_921.py
+2026-03-13T12:15:25+0300 INFO: Завершение выполнения процесса. C:\Users\Frilex\Desktop\puzzlez\PR3_Tokareva_var34\process\Процесс 1.json
+2026-03-13T12:20:14+0300 INFO: Запуск процесса из студии разработки. C:\Users\Frilex\Desktop\puzzlez\PR3_Tokareva_var34\process\Процесс 1.json
+2026-03-13T12:20:15+0300 INFO: Старт робота: C:\Users\Frilex\Desktop\puzzlez\PR3_Tokareva_var34\resource\a5e3876c-8ad1-4701-964f-b7962defd46d\robo_921.py
+2026-03-13T12:20:32+0300 INFO: Завершение работы робота: C:\Users\Frilex\Desktop\puzzlez\PR3_Tokareva_var34\resource\a5e3876c-8ad1-4701-964f-b7962defd46d\robo_921.py
+2026-03-13T12:20:33+0300 INFO: Завершение выполнения процесса. C:\Users\Frilex\Desktop\puzzlez\PR3_Tokareva_var34\process\Процесс 1.json
+2026-03-13T12:42:38+0300 INFO: Запуск процесса из студии разработки. C:\Users\Frilex\Desktop\puzzlez\PR3_Tokareva_var34\process\Процесс 1.json
+2026-03-13T12:42:39+0300 INFO: Старт робота: C:\Users\Frilex\Desktop\puzzlez\PR3_Tokareva_var34\resource\78925989-be2e-402e-aebc-db7c988aa4fd\robo_921.py
+2026-03-13T12:42:42+0300 INFO: Завершение работы робота: C:\Users\Frilex\Desktop\puzzlez\PR3_Tokareva_var34\resource\78925989-be2e-402e-aebc-db7c988aa4fd\robo_921.py
+2026-03-13T12:42:43+0300 INFO: Завершение выполнения процесса. C:\Users\Frilex\Desktop\puzzlez\PR3_Tokareva_var34\process\Процесс 1.json
+2026-03-13T12:59:38+0300 INFO: Запуск процесса из студии разработки. C:\Users\Frilex\Desktop\puzzlez\PR3_Tokareva_var34\process\Процесс 1.json
+2026-03-13T12:59:39+0300 INFO: Старт робота: C:\Users\Frilex\Desktop\puzzlez\PR3_Tokareva_var34\resource\cbca99ea-2be9-48d6-8503-02aa0a2dd363\robo_921.py
+2026-03-13T12:59:59+0300 INFO: Завершение работы робота: C:\Users\Frilex\Desktop\puzzlez\PR3_Tokareva_var34\resource\cbca99ea-2be9-48d6-8503-02aa0a2dd363\robo_921.py
+2026-03-13T12:59:59+0300 INFO: Завершение выполнения процесса. C:\Users\Frilex\Desktop\puzzlez\PR3_Tokareva_var34\process\Процесс 1.json
