@@ -1,0 +1,341 @@
+{
+  "version": 2,
+  "window": {
+    "title": "Расширенная заявка на стажировку",
+    "width": 520,
+    "height": 420
+  },
+  "ui": {
+    "padding": {
+      "inline": 16,
+      "block": 16
+    },
+    "backgroundColor": "#ffffff",
+    "textColor": "#222222",
+    "titleColor": "#1976D2",
+    "titleTextColor": "#ffffff"
+  },
+  "fields": [
+    {
+      "id": "applicant_fullname",
+      "type": "text",
+      "label": "ФИО соискателя",
+      "disabled": false,
+      "tooltipText": "",
+      "default": "",
+      "ui": {
+        "row": 1,
+        "order": 1,
+        "width": "auto",
+        "height": "auto",
+        "margin": {
+          "bottom": 0,
+          "top": 0,
+          "right": 0,
+          "left": 0
+        },
+        "labelPosition": "top",
+        "backgroundColor": "#ffffff",
+        "borderColor": "#000000",
+        "textColor": "#000000",
+        "labelColor": "#000000"
+      },
+      "hideIf": {
+        "groups": {},
+        "topLevel": [],
+        "conditions": {}
+      },
+      "pattern": ""
+    },
+    {
+      "id": "contact_email",
+      "type": "text",
+      "label": "Контактный email",
+      "disabled": false,
+      "tooltipText": "",
+      "default": "",
+      "ui": {
+        "row": 2,
+        "order": 1,
+        "width": "auto",
+        "height": "auto",
+        "margin": {
+          "bottom": 0,
+          "top": 0,
+          "right": 0,
+          "left": 0
+        },
+        "labelPosition": "top",
+        "backgroundColor": "#ffffff",
+        "borderColor": "#000000",
+        "textColor": "#000000",
+        "labelColor": "#000000"
+      },
+      "hideIf": {
+        "groups": {},
+        "topLevel": [],
+        "conditions": {}
+      },
+      "pattern": ""
+    },
+    {
+      "id": "study_course",
+      "type": "number",
+      "label": "Курс обучения",
+      "disabled": false,
+      "tooltipText": "",
+      "default": 1,
+      "ui": {
+        "row": 3,
+        "order": 1,
+        "width": "auto",
+        "height": "auto",
+        "margin": {
+          "bottom": 0,
+          "top": 0,
+          "right": 0,
+          "left": 0
+        },
+        "labelPosition": "top",
+        "backgroundColor": "#ffffff",
+        "borderColor": "#000000",
+        "textColor": "#000000",
+        "labelColor": "#000000"
+      },
+      "hideIf": {
+        "groups": {},
+        "topLevel": [],
+        "conditions": {}
+      },
+      "min": 1,
+      "max": 6,
+      "step": 1
+    },
+    {
+      "id": "has_recommendation",
+      "type": "checkbox",
+      "label": "Есть рекомендательное письмо",
+      "disabled": false,
+      "tooltipText": "",
+      "default": false,
+      "ui": {
+        "row": 4,
+        "order": 1,
+        "width": "auto",
+        "height": "auto",
+        "margin": {
+          "bottom": 0,
+          "top": 0,
+          "right": 0,
+          "left": 0
+        },
+        "labelPosition": "left",
+        "backgroundColor": "#ffffff",
+        "borderColor": "#000000",
+        "textColor": "#000000",
+        "labelColor": "#000000"
+      },
+      "hideIf": {
+        "groups": {},
+        "topLevel": [],
+        "conditions": {}
+      }
+    },
+    {
+      "id": "recommender_name",
+      "type": "text",
+      "label": "ФИО рекомендателя",
+      "disabled": false,
+      "tooltipText": "",
+      "default": "",
+      "ui": {
+        "row": 5,
+        "order": 1,
+        "width": "auto",
+        "height": "auto",
+        "margin": {
+          "bottom": 0,
+          "top": 0,
+          "right": 0,
+          "left": 0
+        },
+        "labelPosition": "top",
+        "backgroundColor": "#ffffff",
+        "borderColor": "#000000",
+        "textColor": "#000000",
+        "labelColor": "#000000"
+      },
+      "hideIf": {
+        "groups": {},
+        "topLevel": [
+          {
+            "type": "condition",
+            "id": "1774001546382_0.9282479584312806",
+            "nextOperator": "and"
+          }
+        ],
+        "conditions": {
+          "1774001546382_0.9282479584312806": {
+            "id": "1774001546382_0.9282479584312806",
+            "groupId": "__ungrouped",
+            "node": {
+              "type": "leaf",
+              "field": "has_recommendation",
+              "operator": "checked",
+              "value": ""
+            }
+          }
+        }
+      },
+      "pattern": ""
+    },
+    {
+      "id": "internship_direction",
+      "type": "select",
+      "label": "Направление стажировки",
+      "disabled": false,
+      "tooltipText": "",
+      "default": "",
+      "ui": {
+        "row": 6,
+        "order": 1,
+        "width": "auto",
+        "height": "auto",
+        "margin": {
+          "bottom": 0,
+          "top": 0,
+          "right": 0,
+          "left": 0
+        },
+        "labelPosition": "top",
+        "backgroundColor": "#ffffff",
+        "borderColor": "#000000",
+        "textColor": "#000000",
+        "labelColor": "#000000"
+      },
+      "hideIf": {
+        "groups": {},
+        "topLevel": [],
+        "conditions": {}
+      },
+      "options": [
+        "it",
+        "marketing",
+        "hr"
+      ]
+    },
+    {
+      "id": "ok",
+      "type": "button",
+      "label": "Подтвердить",
+      "disabled": false,
+      "tooltipText": "",
+      "default": "",
+      "ui": {
+        "row": 7,
+        "order": 1,
+        "width": "auto",
+        "height": "auto",
+        "margin": {
+          "bottom": 0,
+          "top": 0,
+          "right": 0,
+          "left": 0
+        },
+        "labelPosition": "right",
+        "backgroundColor": "#1976d2",
+        "borderColor": "#1976d2",
+        "textColor": "#ffffff",
+        "labelColor": "#000000"
+      },
+      "hideIf": {
+        "groups": {},
+        "topLevel": [],
+        "conditions": {}
+      },
+      "buttonProps": {
+        "type": "submit",
+        "onClick": {
+          "name": "",
+          "safeName": ""
+        },
+        "resultKey": "submit_result"
+      }
+    },
+    {
+      "id": "fail",
+      "type": "button",
+      "label": "Отмена",
+      "disabled": false,
+      "tooltipText": "",
+      "default": "",
+      "ui": {
+        "row": 7,
+        "order": 3,
+        "width": "auto",
+        "height": "auto",
+        "margin": {
+          "bottom": 0,
+          "top": 0,
+          "right": 0,
+          "left": 0
+        },
+        "labelPosition": "right",
+        "backgroundColor": "#1976d2",
+        "borderColor": "#1976d2",
+        "textColor": "#ffffff",
+        "labelColor": "#000000"
+      },
+      "hideIf": {
+        "groups": {},
+        "topLevel": [],
+        "conditions": {}
+      },
+      "buttonProps": {
+        "type": "close",
+        "onClick": {
+          "name": "",
+          "safeName": ""
+        }
+      }
+    },
+    {
+      "id": "button",
+      "type": "button",
+      "label": "Проверить заявку",
+      "disabled": false,
+      "tooltipText": "",
+      "default": "",
+      "ui": {
+        "row": 7,
+        "order": 2,
+        "width": "auto",
+        "height": "auto",
+        "margin": {
+          "bottom": 0,
+          "top": 0,
+          "right": 0,
+          "left": 0
+        },
+        "labelPosition": "right",
+        "backgroundColor": "#1976d2",
+        "borderColor": "#1976d2",
+        "textColor": "#ffffff",
+        "labelColor": "#000000"
+      },
+      "hideIf": {
+        "groups": {},
+        "topLevel": [],
+        "conditions": {}
+      },
+      "buttonProps": {
+        "type": "function",
+        "onClick": {
+          "name": "validate_internship_application",
+          "safeName": "validate_internship_application"
+        },
+        "resultKey": "form_result"
+      }
+    }
+  ]
+}

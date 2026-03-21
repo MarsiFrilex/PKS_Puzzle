@@ -1,0 +1,190 @@
+{
+  "version": 2,
+  "window": {
+    "title": "Заявка на стажировку",
+    "width": 520,
+    "height": 420
+  },
+  "ui": {
+    "padding": {
+      "inline": 16,
+      "block": 16
+    },
+    "backgroundColor": "#f5f0ffff",
+    "textColor": "#222222",
+    "titleColor": "#3d014aff",
+    "titleTextColor": "#ffffff"
+  },
+  "fields": [
+    {
+      "id": "applicant_fullname",
+      "type": "text",
+      "label": "ФИО соискателя",
+      "disabled": false,
+      "tooltipText": "",
+      "default": "",
+      "ui": {
+        "row": 1,
+        "order": 1,
+        "width": "auto",
+        "height": "auto",
+        "margin": {
+          "bottom": 0,
+          "top": 0,
+          "right": 0,
+          "left": 0
+        },
+        "labelPosition": "top",
+        "backgroundColor": "#ffffff",
+        "borderColor": "#1b0021ff",
+        "textColor": "#000000",
+        "labelColor": "#1b0021ff"
+      },
+      "hideIf": {
+        "groups": {},
+        "topLevel": [],
+        "conditions": {}
+      },
+      "pattern": ""
+    },
+    {
+      "id": "contact_email",
+      "type": "text",
+      "label": "Контактный email",
+      "disabled": false,
+      "tooltipText": "",
+      "default": "",
+      "ui": {
+        "row": 2,
+        "order": 1,
+        "width": "auto",
+        "height": "auto",
+        "margin": {
+          "bottom": 0,
+          "top": 0,
+          "right": 0,
+          "left": 0
+        },
+        "labelPosition": "top",
+        "backgroundColor": "#ffffff",
+        "borderColor": "#1b0021ff",
+        "textColor": "#000000ff",
+        "labelColor": "#1b0021ff"
+      },
+      "hideIf": {
+        "groups": {},
+        "topLevel": [],
+        "conditions": {}
+      },
+      "pattern": ""
+    },
+    {
+      "id": "study_course",
+      "type": "number",
+      "label": "Курс обучения",
+      "disabled": false,
+      "tooltipText": "",
+      "default": 1,
+      "ui": {
+        "row": 3,
+        "order": 1,
+        "width": "auto",
+        "height": "auto",
+        "margin": {
+          "bottom": 0,
+          "top": 0,
+          "right": 0,
+          "left": 0
+        },
+        "labelPosition": "top",
+        "backgroundColor": "#ffffff",
+        "borderColor": "#1b0021ff",
+        "textColor": "#000000",
+        "labelColor": "#1b0021ff"
+      },
+      "hideIf": {
+        "groups": {},
+        "topLevel": [],
+        "conditions": {}
+      },
+      "min": 1,
+      "max": 6,
+      "step": 1
+    },
+    {
+      "id": "button_1",
+      "type": "button",
+      "label": "Подтвердить",
+      "disabled": false,
+      "tooltipText": "",
+      "default": "",
+      "ui": {
+        "row": 4,
+        "order": 1,
+        "width": "auto",
+        "height": "auto",
+        "margin": {
+          "bottom": 0,
+          "top": 0,
+          "right": 0,
+          "left": 0
+        },
+        "labelPosition": "right",
+        "backgroundColor": "#3d014aff",
+        "borderColor": "#1f0026ff",
+        "textColor": "#ffffff",
+        "labelColor": "#000000"
+      },
+      "hideIf": {
+        "groups": {},
+        "topLevel": [],
+        "conditions": {}
+      },
+      "buttonProps": {
+        "type": "submit",
+        "onClick": {
+          "name": "",
+          "safeName": ""
+        },
+        "resultKey": "submit_result"
+      }
+    },
+    {
+      "id": "button_2",
+      "type": "button",
+      "label": "Отмена",
+      "disabled": false,
+      "tooltipText": "",
+      "default": "",
+      "ui": {
+        "row": 4,
+        "order": 1,
+        "width": "auto",
+        "height": "auto",
+        "margin": {
+          "bottom": 0,
+          "top": 0,
+          "right": 0,
+          "left": 0
+        },
+        "labelPosition": "right",
+        "backgroundColor": "#3d014aff",
+        "borderColor": "#1f0026ff",
+        "textColor": "#ffffff",
+        "labelColor": "#000000"
+      },
+      "hideIf": {
+        "groups": {},
+        "topLevel": [],
+        "conditions": {}
+      },
+      "buttonProps": {
+        "type": "close",
+        "onClick": {
+          "name": "",
+          "safeName": ""
+        }
+      }
+    }
+  ]
+}

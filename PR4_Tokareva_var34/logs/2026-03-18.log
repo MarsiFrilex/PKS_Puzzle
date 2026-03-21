@@ -1,0 +1,103 @@
+2026-03-18T19:22:25+0300 INFO: Запуск процесса из студии разработки. C:\Users\Frilex\Desktop\puzzlez\PR4_Tokareva_var34\process\Процесс 1.json
+2026-03-18T19:22:26+0300 Окно выполнения: Процесс 1: ERROR:  ["stderr:","  File \"C:\\Users\\Frilex\\Desktop\\puzzlez\\PR4_Tokareva_var34\\resource\\8d27b177-8bf7-49c5-b88f-da4dad2b8045\\servo_326.py\", line 28\r\n    forms_result = dynamic_form.show_form('C:\\\\Users\\\\Frilex\\\\Desktop\\\\puzzlez\\\\PR4_Tokareva_var34\\\\resource\\\\forms\\\\Заявка на стажировку.json',fields_defaults=,callback_context=,block_text=\"undefined\",window_log=True, current_language=\"ru\")\r\n                                                                                                                                                                ^\r\nSyntaxError: invalid syntax\r\n"]
+2026-03-18T19:22:28+0300 ERROR: Завершение выполнения процесса. C:\Users\Frilex\Desktop\puzzlez\PR4_Tokareva_var34\process\Процесс 1.json
+2026-03-18T19:22:34+0300 INFO: Запуск процесса из студии разработки. C:\Users\Frilex\Desktop\puzzlez\PR4_Tokareva_var34\process\Процесс 1.json
+2026-03-18T19:22:34+0300 Окно выполнения: Процесс 1: ERROR:  ["stderr:","  File \"C:\\Users\\Frilex\\Desktop\\puzzlez\\PR4_Tokareva_var34\\resource\\638173d6-233a-4307-bf6f-6333552efa2c\\servo_326.py\", line 28\r\n    forms_result = dynamic_form.show_form('C:\\\\Users\\\\Frilex\\\\Desktop\\\\puzzlez\\\\PR4_Tokareva_var34\\\\resource\\\\forms\\\\Заявка на стажировку.json',fields_defaults=,callback_context=,block_text=\"undefined\",window_log=True, current_language=\"ru\")\r\n                                                                                                                                                                ^\r\nSyntaxError: invalid syntax\r\n"]
+2026-03-18T19:22:37+0300 ERROR: Завершение выполнения процесса. C:\Users\Frilex\Desktop\puzzlez\PR4_Tokareva_var34\process\Процесс 1.json
+2026-03-18T19:22:42+0300 INFO: Запуск процесса из студии разработки. C:\Users\Frilex\Desktop\puzzlez\PR4_Tokareva_var34\process\Процесс 1.json
+2026-03-18T19:22:42+0300 Окно выполнения: Процесс 1: ERROR:  ["stderr:","  File \"C:\\Users\\Frilex\\Desktop\\puzzlez\\PR4_Tokareva_var34\\resource\\78b48d20-a11f-455a-8d8e-1017efc411d7\\servo_326.py\", line 28\r\n    forms_result = dynamic_form.show_form('C:\\\\Users\\\\Frilex\\\\Desktop\\\\puzzlez\\\\PR4_Tokareva_var34\\\\resource\\\\forms\\\\Заявка на стажировку.json',fields_defaults=,callback_context=,block_text=\"undefined\",window_log=True, current_language=\"ru\")\r\n                                                                                                                                                                ^\r\nSyntaxError: invalid syntax\r\n"]
+2026-03-18T19:22:44+0300 ERROR: Завершение выполнения процесса. C:\Users\Frilex\Desktop\puzzlez\PR4_Tokareva_var34\process\Процесс 1.json
+2026-03-18T19:23:13+0300 INFO: Запуск процесса из студии разработки. C:\Users\Frilex\Desktop\puzzlez\PR4_Tokareva_var34\process\Процесс 1.json
+2026-03-18T19:23:13+0300 Окно выполнения: Процесс 1: ERROR:  ["stderr:","  File \"C:\\Users\\Frilex\\Desktop\\puzzlez\\PR4_Tokareva_var34\\resource\\2753520d-3baf-4f9d-bef7-9a494a3dd075\\servo_326.py\", line 27\r\n    forms_result = dynamic_form.show_form('C:\\\\Users\\\\Frilex\\\\Desktop\\\\puzzlez\\\\PR4_Tokareva_var34\\\\resource\\\\forms\\\\Заявка на стажировку.json',fields_defaults=,callback_context=,block_text=\"undefined\",window_log=True, current_language=\"ru\")\r\n                                                                                                                                                                ^\r\nSyntaxError: invalid syntax\r\n"]
+2026-03-18T19:23:23+0300 ERROR: Завершение выполнения процесса. C:\Users\Frilex\Desktop\puzzlez\PR4_Tokareva_var34\process\Процесс 1.json
+2026-03-18T19:26:33+0300 INFO: Запуск процесса из студии разработки. C:\Users\Frilex\Desktop\puzzlez\PR4_Tokareva_var34\process\Процесс 1.json
+2026-03-18T19:26:34+0300 Окно выполнения: Процесс 1: ERROR:  ["stderr:","  File \"C:\\Users\\Frilex\\Desktop\\puzzlez\\PR4_Tokareva_var34\\resource\\30721471-77fe-4a74-9f3b-7f430d2a99d0\\servo_326.py\", line 28\r\n    forms_result = dynamic_form.show_form((files_and_folders.get_executable_path('forms\\\\form.json',binary_path='TRUE',block_text=\"Относительный путь\",window_log=True, current_language=\"ru\")),fields_defaults=,callback_context=,block_text=\"undefined\",window_log=True, current_language=\"ru\")\r\n                                                                                                                                                                                                                ^\r\nSyntaxError: invalid syntax\r\n"]
+2026-03-18T19:26:42+0300 ERROR: Завершение выполнения процесса. C:\Users\Frilex\Desktop\puzzlez\PR4_Tokareva_var34\process\Процесс 1.json
+2026-03-18T19:27:04+0300 INFO: Запуск процесса из студии разработки. C:\Users\Frilex\Desktop\puzzlez\PR4_Tokareva_var34\process\Процесс 1.json
+2026-03-18T19:27:05+0300 Окно выполнения: Процесс 1: ERROR:  ["stderr:","  File \"C:\\Users\\Frilex\\Desktop\\puzzlez\\PR4_Tokareva_var34\\resource\\b28772b9-2a5f-4e67-a72b-a6214a372808\\servo_326.py\", line 28\r\n    forms_result = dynamic_form.show_form((files_and_folders.get_executable_path('forms\\\\form.json',binary_path='TRUE',block_text=\"Относительный путь\",window_log=True, current_language=\"ru\")),fields_defaults=,callback_context=,block_text=\"undefined\",window_log=True, current_language=\"ru\")\r\n                                                                                                                                                                                                                ^\r\nSyntaxError: invalid syntax\r\n"]
+2026-03-18T19:27:12+0300 ERROR: Завершение выполнения процесса. C:\Users\Frilex\Desktop\puzzlez\PR4_Tokareva_var34\process\Процесс 1.json
+2026-03-18T19:27:21+0300 INFO: Запуск процесса из студии разработки. C:\Users\Frilex\Desktop\puzzlez\PR4_Tokareva_var34\process\Процесс 1.json
+2026-03-18T19:27:22+0300 Окно выполнения: Процесс 1: ERROR:  ["stderr:","  File \"C:\\Users\\Frilex\\Desktop\\puzzlez\\PR4_Tokareva_var34\\resource\\29f8cb9e-0ef5-4231-a8e2-2bcc4713297f\\servo_326.py\", line 28\r\n    forms_result = dynamic_form.show_form((files_and_folders.get_executable_path('forms\\\\form.json',binary_path='FALSE',block_text=\"Относительный путь\",window_log=True, current_language=\"ru\")),fields_defaults=,callback_context=,block_text=\"undefined\",window_log=True, current_language=\"ru\")\r\n                                                                                                                                                                                                                 ^\r\nSyntaxError: invalid syntax\r\n"]
+2026-03-18T19:27:23+0300 ERROR: Завершение выполнения процесса. C:\Users\Frilex\Desktop\puzzlez\PR4_Tokareva_var34\process\Процесс 1.json
+2026-03-18T19:27:49+0300 INFO: Запуск процесса из студии разработки. C:\Users\Frilex\Desktop\puzzlez\PR4_Tokareva_var34\process\Процесс 1.json
+2026-03-18T19:27:49+0300 Окно выполнения: Процесс 1: ERROR:  ["stderr:","  File \"C:\\Users\\Frilex\\Desktop\\puzzlez\\PR4_Tokareva_var34\\resource\\48873bd2-0bc5-4562-b33f-aa876451e6ce\\servo_326.py\", line 27\r\n    forms_result = dynamic_form.show_form('C:\\\\Users\\\\Frilex\\\\Desktop\\\\puzzlez\\\\PR4_Tokareva_var34\\\\resource\\\\forms\\\\form.json',fields_defaults=,callback_context=,block_text=\"undefined\",window_log=True, current_language=\"ru\")\r\n                                                                                                                                                ^\r\nSyntaxError: invalid syntax\r\n"]
+2026-03-18T19:27:51+0300 ERROR: Завершение выполнения процесса. C:\Users\Frilex\Desktop\puzzlez\PR4_Tokareva_var34\process\Процесс 1.json
+2026-03-18T19:28:04+0300 INFO: Запуск процесса из студии разработки. C:\Users\Frilex\Desktop\puzzlez\PR4_Tokareva_var34\process\Процесс 1.json
+2026-03-18T19:28:04+0300 Окно выполнения: Процесс 1: ERROR:  ["stderr:","  File \"C:\\Users\\Frilex\\Desktop\\puzzlez\\PR4_Tokareva_var34\\resource\\9d819453-8a5e-4a61-bb08-6fb36e401a7d\\servo_326.py\", line 27\r\n    forms_result = dynamic_form.show_form('C:\\\\Users\\\\Frilex\\\\Desktop\\\\puzzlez\\\\PR4_Tokareva_var34\\\\resource\\\\forms\\\\form.json',fields_defaults=,callback_context=,block_text=\"undefined\",window_log=True, current_language=\"ru\")\r\n                                                                                                                                                ^\r\nSyntaxError: invalid syntax\r\n"]
+2026-03-18T19:29:08+0300 ERROR: Завершение выполнения процесса. C:\Users\Frilex\Desktop\puzzlez\PR4_Tokareva_var34\process\Процесс 1.json
+2026-03-18T19:29:58+0300 INFO: Запуск процесса из студии разработки. C:\Users\Frilex\Desktop\puzzlez\PR4_Tokareva_var34\process\Процесс 1.json
+2026-03-18T19:29:59+0300 INFO: Старт робота: C:\Users\Frilex\Desktop\puzzlez\PR4_Tokareva_var34\resource\f3dec33a-f8ed-4aee-a7c4-e8ad2ee035a8\servo_326.py
+2026-03-18T19:30:24+0300 INFO: Завершение работы робота: C:\Users\Frilex\Desktop\puzzlez\PR4_Tokareva_var34\resource\f3dec33a-f8ed-4aee-a7c4-e8ad2ee035a8\servo_326.py
+2026-03-18T19:30:24+0300 INFO: Завершение выполнения процесса. C:\Users\Frilex\Desktop\puzzlez\PR4_Tokareva_var34\process\Процесс 1.json
+2026-03-18T19:30:35+0300 INFO: Запуск процесса из студии разработки. C:\Users\Frilex\Desktop\puzzlez\PR4_Tokareva_var34\process\Процесс 1.json
+2026-03-18T19:30:36+0300 INFO: Старт робота: C:\Users\Frilex\Desktop\puzzlez\PR4_Tokareva_var34\resource\d91db61e-2bef-41c5-8e30-26616c279652\servo_326.py
+2026-03-18T19:30:40+0300 INFO: Завершение работы робота: C:\Users\Frilex\Desktop\puzzlez\PR4_Tokareva_var34\resource\d91db61e-2bef-41c5-8e30-26616c279652\servo_326.py
+2026-03-18T19:30:40+0300 INFO: Завершение выполнения процесса. C:\Users\Frilex\Desktop\puzzlez\PR4_Tokareva_var34\process\Процесс 1.json
+2026-03-18T19:31:01+0300 INFO: Запуск процесса из студии разработки. C:\Users\Frilex\Desktop\puzzlez\PR4_Tokareva_var34\process\Процесс 1.json
+2026-03-18T19:31:02+0300 INFO: Старт робота: C:\Users\Frilex\Desktop\puzzlez\PR4_Tokareva_var34\resource\ed016beb-ae0f-4af8-afc3-a6a0a3b96223\servo_326.py
+2026-03-18T19:31:22+0300 INFO: Завершение работы робота: C:\Users\Frilex\Desktop\puzzlez\PR4_Tokareva_var34\resource\ed016beb-ae0f-4af8-afc3-a6a0a3b96223\servo_326.py
+2026-03-18T19:31:22+0300 INFO: Завершение выполнения процесса. C:\Users\Frilex\Desktop\puzzlez\PR4_Tokareva_var34\process\Процесс 1.json
+2026-03-18T19:41:29+0300 INFO: Запуск процесса из студии разработки. C:\Users\Frilex\Desktop\puzzlez\PR4_Tokareva_var34\process\Процесс 1.json
+2026-03-18T19:41:30+0300 INFO: Старт робота: C:\Users\Frilex\Desktop\puzzlez\PR4_Tokareva_var34\resource\6d912711-6fc0-4e6e-ab19-e91b73558444\servo_326.py
+2026-03-18T19:41:38+0300 INFO: Завершение работы робота: C:\Users\Frilex\Desktop\puzzlez\PR4_Tokareva_var34\resource\6d912711-6fc0-4e6e-ab19-e91b73558444\servo_326.py
+2026-03-18T19:41:39+0300 INFO: Завершение выполнения процесса. C:\Users\Frilex\Desktop\puzzlez\PR4_Tokareva_var34\process\Процесс 1.json
+2026-03-18T19:42:00+0300 INFO: Запуск процесса из студии разработки. C:\Users\Frilex\Desktop\puzzlez\PR4_Tokareva_var34\process\Процесс 1.json
+2026-03-18T19:42:01+0300 INFO: Старт робота: C:\Users\Frilex\Desktop\puzzlez\PR4_Tokareva_var34\resource\c993e926-4e7d-4b79-ba75-57f60e45835c\servo_326.py
+2026-03-18T19:42:08+0300 INFO: Завершение работы робота: C:\Users\Frilex\Desktop\puzzlez\PR4_Tokareva_var34\resource\c993e926-4e7d-4b79-ba75-57f60e45835c\servo_326.py
+2026-03-18T19:42:09+0300 INFO: Завершение выполнения процесса. C:\Users\Frilex\Desktop\puzzlez\PR4_Tokareva_var34\process\Процесс 1.json
+2026-03-18T19:47:33+0300 INFO: Запуск процесса из студии разработки. C:\Users\Frilex\Desktop\puzzlez\PR4_Tokareva_var34\process\Процесс 1.json
+2026-03-18T19:47:33+0300 INFO: Старт робота: C:\Users\Frilex\Desktop\puzzlez\PR4_Tokareva_var34\resource\7730de15-134b-4d58-9419-6195b6b2e8ae\servo_326.py
+2026-03-18T19:47:45+0300 INFO: Завершение работы робота: C:\Users\Frilex\Desktop\puzzlez\PR4_Tokareva_var34\resource\7730de15-134b-4d58-9419-6195b6b2e8ae\servo_326.py
+2026-03-18T19:47:45+0300 INFO: Завершение выполнения процесса. C:\Users\Frilex\Desktop\puzzlez\PR4_Tokareva_var34\process\Процесс 1.json
+2026-03-18T19:48:19+0300 INFO: Запуск процесса из студии разработки. C:\Users\Frilex\Desktop\puzzlez\PR4_Tokareva_var34\process\Процесс 1.json
+2026-03-18T19:48:19+0300 INFO: Старт робота: C:\Users\Frilex\Desktop\puzzlez\PR4_Tokareva_var34\resource\59a11664-c350-4f6b-8b46-b86844fe567a\servo_326.py
+2026-03-18T19:48:28+0300 INFO: Завершение работы робота: C:\Users\Frilex\Desktop\puzzlez\PR4_Tokareva_var34\resource\59a11664-c350-4f6b-8b46-b86844fe567a\servo_326.py
+2026-03-18T19:48:28+0300 INFO: Завершение выполнения процесса. C:\Users\Frilex\Desktop\puzzlez\PR4_Tokareva_var34\process\Процесс 1.json
+2026-03-18T19:49:30+0300 INFO: Запуск процесса из студии разработки. C:\Users\Frilex\Desktop\puzzlez\PR4_Tokareva_var34\process\Процесс 1.json
+2026-03-18T19:49:31+0300 INFO: Старт робота: C:\Users\Frilex\Desktop\puzzlez\PR4_Tokareva_var34\resource\4dc3d851-357c-4efd-ad51-f6b7869f82be\servo_326.py
+2026-03-18T19:49:57+0300 INFO: Завершение работы робота: C:\Users\Frilex\Desktop\puzzlez\PR4_Tokareva_var34\resource\4dc3d851-357c-4efd-ad51-f6b7869f82be\servo_326.py
+2026-03-18T19:49:57+0300 INFO: Завершение выполнения процесса. C:\Users\Frilex\Desktop\puzzlez\PR4_Tokareva_var34\process\Процесс 1.json
+2026-03-18T19:51:35+0300 INFO: Запуск процесса из студии разработки. C:\Users\Frilex\Desktop\puzzlez\PR4_Tokareva_var34\process\Процесс 1.json
+2026-03-18T19:51:36+0300 INFO: Старт робота: C:\Users\Frilex\Desktop\puzzlez\PR4_Tokareva_var34\resource\fb30bf5c-1047-4812-9744-06a11583068c\servo_326.py
+2026-03-18T19:51:44+0300 INFO: Завершение работы робота: C:\Users\Frilex\Desktop\puzzlez\PR4_Tokareva_var34\resource\fb30bf5c-1047-4812-9744-06a11583068c\servo_326.py
+2026-03-18T19:51:44+0300 INFO: Завершение выполнения процесса. C:\Users\Frilex\Desktop\puzzlez\PR4_Tokareva_var34\process\Процесс 1.json
+2026-03-18T19:51:52+0300 INFO: Запуск процесса из студии разработки. C:\Users\Frilex\Desktop\puzzlez\PR4_Tokareva_var34\process\Процесс 1.json
+2026-03-18T19:51:52+0300 INFO: Старт робота: C:\Users\Frilex\Desktop\puzzlez\PR4_Tokareva_var34\resource\55546a20-62ea-47c8-abba-1781df00c8cf\servo_326.py
+2026-03-18T19:51:58+0300 INFO: Завершение работы робота: C:\Users\Frilex\Desktop\puzzlez\PR4_Tokareva_var34\resource\55546a20-62ea-47c8-abba-1781df00c8cf\servo_326.py
+2026-03-18T19:51:58+0300 INFO: Завершение выполнения процесса. C:\Users\Frilex\Desktop\puzzlez\PR4_Tokareva_var34\process\Процесс 1.json
+2026-03-18T19:52:11+0300 INFO: Запуск процесса из студии разработки. C:\Users\Frilex\Desktop\puzzlez\PR4_Tokareva_var34\process\Процесс 1.json
+2026-03-18T19:52:11+0300 INFO: Старт робота: C:\Users\Frilex\Desktop\puzzlez\PR4_Tokareva_var34\resource\902e80ea-a611-45c6-9d91-a67e3fafc5ef\servo_326.py
+2026-03-18T19:52:42+0300 INFO: Завершение работы робота: C:\Users\Frilex\Desktop\puzzlez\PR4_Tokareva_var34\resource\902e80ea-a611-45c6-9d91-a67e3fafc5ef\servo_326.py
+2026-03-18T19:52:43+0300 INFO: Завершение выполнения процесса. C:\Users\Frilex\Desktop\puzzlez\PR4_Tokareva_var34\process\Процесс 1.json
+2026-03-18T20:23:49+0300 INFO: Запуск процесса из студии разработки. C:\Users\Frilex\Desktop\puzzlez\PR4_Tokareva_var34\process\Процесс 1.json
+2026-03-18T20:23:49+0300 INFO: Старт робота: C:\Users\Frilex\Desktop\puzzlez\PR4_Tokareva_var34\resource\7527e146-143b-4d8e-be61-69f0f583a0a2\servo_326.py
+2026-03-18T20:23:59+0300 INFO: Завершение выполнения процесса. C:\Users\Frilex\Desktop\puzzlez\PR4_Tokareva_var34\process\Процесс 1.json
+2026-03-18T20:27:14+0300 INFO: Запуск процесса из студии разработки. C:\Users\Frilex\Desktop\puzzlez\PR4_Tokareva_var34\process\Процесс 1.json
+2026-03-18T20:27:15+0300 INFO: Старт робота: C:\Users\Frilex\Desktop\puzzlez\PR4_Tokareva_var34\resource\011f9ca6-e381-45b1-bbcd-7fba84a328af\servo_326.py
+2026-03-18T20:27:24+0300 ERROR: C:\Users\Frilex\Desktop\puzzlez\PR4_Tokareva_var34\resource\011f9ca6-e381-45b1-bbcd-7fba84a328af\servo_326.py Ошибка: 'applicant_fullname'
+2026-03-18T20:27:24+0300 Окно выполнения: Процесс 1: ERROR:  ["'applicant_fullname'"]
+2026-03-18T20:27:30+0300 ERROR: Завершение выполнения процесса. C:\Users\Frilex\Desktop\puzzlez\PR4_Tokareva_var34\process\Процесс 1.json
+2026-03-18T20:29:09+0300 INFO: Запуск процесса из студии разработки. C:\Users\Frilex\Desktop\puzzlez\PR4_Tokareva_var34\process\Процесс 1.json
+2026-03-18T20:29:10+0300 INFO: Старт робота: C:\Users\Frilex\Desktop\puzzlez\PR4_Tokareva_var34\resource\5573d208-40ca-4f35-a47d-594e15d7389d\servo_326.py
+2026-03-18T20:29:16+0300 ERROR: C:\Users\Frilex\Desktop\puzzlez\PR4_Tokareva_var34\resource\5573d208-40ca-4f35-a47d-594e15d7389d\servo_326.py Ошибка: 'applicant_fullname'
+2026-03-18T20:29:16+0300 Окно выполнения: Процесс 1: ERROR:  ["'applicant_fullname'"]
+2026-03-18T20:29:21+0300 ERROR: Завершение выполнения процесса. C:\Users\Frilex\Desktop\puzzlez\PR4_Tokareva_var34\process\Процесс 1.json
+2026-03-18T20:30:45+0300 INFO: Запуск процесса из студии разработки. C:\Users\Frilex\Desktop\puzzlez\PR4_Tokareva_var34\process\Процесс 1.json
+2026-03-18T20:30:46+0300 INFO: Старт робота: C:\Users\Frilex\Desktop\puzzlez\PR4_Tokareva_var34\resource\e5d87789-74f7-466f-8394-32f3603d99fe\servo_326.py
+2026-03-18T20:31:24+0300 ERROR: C:\Users\Frilex\Desktop\puzzlez\PR4_Tokareva_var34\resource\e5d87789-74f7-466f-8394-32f3603d99fe\servo_326.py Ошибка: 'applicant_fullname'
+2026-03-18T20:31:24+0300 Окно выполнения: Процесс 1: ERROR:  ["'applicant_fullname'"]
+2026-03-18T20:31:28+0300 ERROR: Завершение выполнения процесса. C:\Users\Frilex\Desktop\puzzlez\PR4_Tokareva_var34\process\Процесс 1.json
+2026-03-18T20:31:51+0300 INFO: Запуск процесса из студии разработки. C:\Users\Frilex\Desktop\puzzlez\PR4_Tokareva_var34\process\Процесс 1.json
+2026-03-18T20:31:51+0300 INFO: Старт робота: C:\Users\Frilex\Desktop\puzzlez\PR4_Tokareva_var34\resource\0ae6502d-b4e5-40eb-a348-10ec64e0e6d0\servo_326.py
+2026-03-18T20:31:57+0300 ERROR: C:\Users\Frilex\Desktop\puzzlez\PR4_Tokareva_var34\resource\0ae6502d-b4e5-40eb-a348-10ec64e0e6d0\servo_326.py Ошибка: 'applicant_fullname'
+2026-03-18T20:31:57+0300 Окно выполнения: Процесс 1: ERROR:  ["'applicant_fullname'"]
+2026-03-18T20:31:59+0300 ERROR: Завершение выполнения процесса. C:\Users\Frilex\Desktop\puzzlez\PR4_Tokareva_var34\process\Процесс 1.json
+2026-03-18T20:32:11+0300 INFO: Запуск процесса из студии разработки. C:\Users\Frilex\Desktop\puzzlez\PR4_Tokareva_var34\process\Процесс 1.json
+2026-03-18T20:32:12+0300 INFO: Старт робота: C:\Users\Frilex\Desktop\puzzlez\PR4_Tokareva_var34\resource\2d618a00-b91a-4be0-8c1d-d713c639358f\servo_326.py
+2026-03-18T20:32:16+0300 ERROR: C:\Users\Frilex\Desktop\puzzlez\PR4_Tokareva_var34\resource\2d618a00-b91a-4be0-8c1d-d713c639358f\servo_326.py Ошибка: 'contact_email'
+2026-03-18T20:32:16+0300 Окно выполнения: Процесс 1: ERROR:  ["'contact_email'"]
+2026-03-18T20:33:05+0300 ERROR: Завершение выполнения процесса. C:\Users\Frilex\Desktop\puzzlez\PR4_Tokareva_var34\process\Процесс 1.json
+2026-03-18T20:41:35+0300 INFO: Запуск процесса из студии разработки. C:\Users\Frilex\Desktop\puzzlez\PR4_Tokareva_var34\process\Процесс 1.json
+2026-03-18T20:41:36+0300 INFO: Старт робота: C:\Users\Frilex\Desktop\puzzlez\PR4_Tokareva_var34\resource\1171e538-c8c1-4789-b705-968fc2301d39\servo_326.py
+2026-03-18T20:41:59+0300 INFO: Завершение работы робота: C:\Users\Frilex\Desktop\puzzlez\PR4_Tokareva_var34\resource\1171e538-c8c1-4789-b705-968fc2301d39\servo_326.py
+2026-03-18T20:41:59+0300 INFO: Завершение выполнения процесса. C:\Users\Frilex\Desktop\puzzlez\PR4_Tokareva_var34\process\Процесс 1.json

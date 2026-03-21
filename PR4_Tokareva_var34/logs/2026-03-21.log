@@ -1,0 +1,27 @@
+2026-03-21T11:14:24+0300 INFO: Запуск процесса из студии разработки. C:\Users\Frilex\Desktop\puzzlez\PR4_Tokareva_var34\process\Процесс 2.json
+2026-03-21T11:14:27+0300 INFO: Старт робота: C:\Users\Frilex\Desktop\puzzlez\PR4_Tokareva_var34\resource\f785633f-d285-4982-a4a4-c97e8e7f2ddc\cortex_520.py
+2026-03-21T11:14:57+0300 INFO: Завершение выполнения процесса. C:\Users\Frilex\Desktop\puzzlez\PR4_Tokareva_var34\process\Процесс 2.json
+2026-03-21T11:16:35+0300 INFO: Запуск процесса из студии разработки. C:\Users\Frilex\Desktop\puzzlez\PR4_Tokareva_var34\process\Процесс 2.json
+2026-03-21T11:16:36+0300 INFO: Старт робота: C:\Users\Frilex\Desktop\puzzlez\PR4_Tokareva_var34\resource\347d647c-6274-4b90-9f41-e2d3339eba05\cortex_520.py
+2026-03-21T11:17:26+0300 INFO: Завершение выполнения процесса. C:\Users\Frilex\Desktop\puzzlez\PR4_Tokareva_var34\process\Процесс 2.json
+2026-03-21T11:17:36+0300 INFO: Запуск процесса из студии разработки. C:\Users\Frilex\Desktop\puzzlez\PR4_Tokareva_var34\process\Процесс 2.json
+2026-03-21T11:17:37+0300 INFO: Старт робота: C:\Users\Frilex\Desktop\puzzlez\PR4_Tokareva_var34\resource\83e75b3c-d404-4098-8658-6e551a827835\cortex_520.py
+2026-03-21T11:18:26+0300 INFO: Завершение работы робота: C:\Users\Frilex\Desktop\puzzlez\PR4_Tokareva_var34\resource\83e75b3c-d404-4098-8658-6e551a827835\cortex_520.py
+2026-03-21T11:18:27+0300 INFO: Завершение выполнения процесса. C:\Users\Frilex\Desktop\puzzlez\PR4_Tokareva_var34\process\Процесс 2.json
+2026-03-21T11:23:43+0300 INFO: Запуск процесса из студии разработки. C:\Users\Frilex\Desktop\puzzlez\PR4_Tokareva_var34\process\Процесс 2.json
+2026-03-21T11:23:44+0300 INFO: Старт робота: C:\Users\Frilex\Desktop\puzzlez\PR4_Tokareva_var34\resource\d0181166-36bb-4cc0-9aac-a19223f83af2\cortex_520.py
+2026-03-21T11:24:43+0300 Cannot read properties of undefined (reading 'match')
+2026-03-21T11:24:43+0300 ERROR: Завершение выполнения процесса. C:\Users\Frilex\Desktop\puzzlez\PR4_Tokareva_var34\process\Процесс 2.json
+2026-03-21T12:27:09+0300 INFO: Запуск процесса из студии разработки. C:\Users\Frilex\Desktop\puzzlez\PR4_Tokareva_var34\process\Процесс 2.json
+2026-03-21T12:27:10+0300 INFO: Старт робота: C:\Users\Frilex\Desktop\puzzlez\PR4_Tokareva_var34\resource\b428661f-86b6-42e9-a79d-a6ce927ad2a1\cortex_520.py
+2026-03-21T12:27:10+0300 ERROR: C:\Users\Frilex\Desktop\puzzlez\PR4_Tokareva_var34\resource\b428661f-86b6-42e9-a79d-a6ce927ad2a1\cortex_520.py Ошибка: cannot access local variable 'form_settings_dict' where it is not associated with a value
+2026-03-21T12:27:10+0300 Окно выполнения: Процесс 2: ERROR:  ["cannot access local variable 'form_settings_dict' where it is not associated with a value"]
+2026-03-21T12:27:29+0300 ERROR: Завершение выполнения процесса. C:\Users\Frilex\Desktop\puzzlez\PR4_Tokareva_var34\process\Процесс 2.json
+2026-03-21T12:28:48+0300 INFO: Запуск процесса из студии разработки. C:\Users\Frilex\Desktop\puzzlez\PR4_Tokareva_var34\process\Процесс 2.json
+2026-03-21T12:28:49+0300 INFO: Старт робота: C:\Users\Frilex\Desktop\puzzlez\PR4_Tokareva_var34\resource\6ba039d2-1e44-40d9-967f-a8a9b146f8c4\cortex_520.py
+2026-03-21T12:29:00+0300 INFO: Завершение работы робота: C:\Users\Frilex\Desktop\puzzlez\PR4_Tokareva_var34\resource\6ba039d2-1e44-40d9-967f-a8a9b146f8c4\cortex_520.py
+2026-03-21T12:29:00+0300 INFO: Завершение выполнения процесса. C:\Users\Frilex\Desktop\puzzlez\PR4_Tokareva_var34\process\Процесс 2.json
+2026-03-21T12:52:37+0300 INFO: Запуск процесса из студии разработки. C:\Users\Frilex\Desktop\puzzlez\PR4_Tokareva_var34\process\Процесс 2.json
+2026-03-21T12:52:38+0300 INFO: Старт робота: C:\Users\Frilex\Desktop\puzzlez\PR4_Tokareva_var34\resource\d90598c1-4d88-4dfc-bba3-94173feb8c03\cortex_520.py
+2026-03-21T12:54:52+0300 INFO: Завершение работы робота: C:\Users\Frilex\Desktop\puzzlez\PR4_Tokareva_var34\resource\d90598c1-4d88-4dfc-bba3-94173feb8c03\cortex_520.py
+2026-03-21T12:54:52+0300 INFO: Завершение выполнения процесса. C:\Users\Frilex\Desktop\puzzlez\PR4_Tokareva_var34\process\Процесс 2.json
