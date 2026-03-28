@@ -1,0 +1,38 @@
+[
+  {
+    "bug_id": "BUG-2024-001",
+    "severity": "critical",
+    "fix_time_hours": 4,
+    "module_name": "authentication"
+  },
+  {
+    "bug_id": "BUG-2024-002",
+    "severity": "high",
+    "fix_time_hours": 6,
+    "module_name": "payments"
+  },
+  {
+    "bug_id": "BUG-2024-003",
+    "severity": "medium",
+    "fix_time_hours": 5,
+    "module_name": "notifications"
+  },
+  {
+    "bug_id": "BUG-2024-004",
+    "severity": "low",
+    "fix_time_hours": 8,
+    "module_name": "profile"
+  },
+  {
+    "bug_id": "BUG-2024-005",
+    "severity": "critical",
+    "fix_time_hours": 10,
+    "module_name": "reporting"
+  },
+  {
+    "bug_id": "BUG-2024-006",
+    "severity": "high",
+    "fix_time_hours": 12,
+    "module_name": "dashboard"
+  }
+]
