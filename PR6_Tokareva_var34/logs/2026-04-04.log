@@ -1,0 +1,43 @@
+2026-04-04T09:13:48+0300 INFO: Запуск процесса из студии разработки. C:\Users\Frilex\Desktop\puzzlez\PR6_Tokareva_var34\process\Процесс 1.json
+2026-04-04T09:13:55+0300 INFO: Старт робота: C:\Users\Frilex\Desktop\puzzlez\PR6_Tokareva_var34\resource\cb78d3f5-4fb2-40ca-a459-cfaca4a0142e\makPal_561.py
+2026-04-04T09:16:28+0300 INFO: Завершение работы робота: C:\Users\Frilex\Desktop\puzzlez\PR6_Tokareva_var34\resource\cb78d3f5-4fb2-40ca-a459-cfaca4a0142e\makPal_561.py
+2026-04-04T09:16:29+0300 INFO: Завершение выполнения процесса. C:\Users\Frilex\Desktop\puzzlez\PR6_Tokareva_var34\process\Процесс 1.json
+2026-04-04T09:17:14+0300 INFO: Запуск процесса из студии разработки. C:\Users\Frilex\Desktop\puzzlez\PR6_Tokareva_var34\process\Процесс 1.json
+2026-04-04T09:17:15+0300 INFO: Старт робота: C:\Users\Frilex\Desktop\puzzlez\PR6_Tokareva_var34\resource\6efdce40-c1b7-464c-9740-a6aa8f2bd199\makPal_561.py
+2026-04-04T09:20:34+0300 INFO: Завершение работы робота: C:\Users\Frilex\Desktop\puzzlez\PR6_Tokareva_var34\resource\6efdce40-c1b7-464c-9740-a6aa8f2bd199\makPal_561.py
+2026-04-04T09:20:35+0300 INFO: Завершение выполнения процесса. C:\Users\Frilex\Desktop\puzzlez\PR6_Tokareva_var34\process\Процесс 1.json
+2026-04-04T09:33:26+0300 INFO: Запуск процесса из студии разработки. C:\Users\Frilex\Desktop\puzzlez\PR6_Tokareva_var34\process\Процесс 1.json
+2026-04-04T09:33:28+0300 INFO: Старт робота: C:\Users\Frilex\Desktop\puzzlez\PR6_Tokareva_var34\resource\51ca219d-79c4-42df-9059-704973369b4c\makPal_561.py
+2026-04-04T09:33:37+0300 INFO: Завершение выполнения процесса. C:\Users\Frilex\Desktop\puzzlez\PR6_Tokareva_var34\process\Процесс 1.json
+2026-04-04T09:35:15+0300 INFO: Запуск процесса из студии разработки. C:\Users\Frilex\Desktop\puzzlez\PR6_Tokareva_var34\process\Процесс 1.json
+2026-04-04T09:35:16+0300 INFO: Старт робота: C:\Users\Frilex\Desktop\puzzlez\PR6_Tokareva_var34\resource\83417e64-f1bd-47ec-8888-237765ed4d93\makPal_561.py
+2026-04-04T09:35:16+0300 ERROR: C:\Users\Frilex\Desktop\puzzlez\PR6_Tokareva_var34\resource\83417e64-f1bd-47ec-8888-237765ed4d93\makPal_561.py Ошибка: '>' not supported between instances of 'Timestamp' and 'str'
+2026-04-04T09:35:16+0300 Окно выполнения: Процесс 1: ERROR:  ["'>' not supported between instances of 'Timestamp' and 'str'"]
+2026-04-04T09:35:22+0300 ERROR: Завершение выполнения процесса. C:\Users\Frilex\Desktop\puzzlez\PR6_Tokareva_var34\process\Процесс 1.json
+2026-04-04T09:36:53+0300 INFO: Запуск процесса из студии разработки. C:\Users\Frilex\Desktop\puzzlez\PR6_Tokareva_var34\process\Процесс 1.json
+2026-04-04T09:36:55+0300 INFO: Старт робота: C:\Users\Frilex\Desktop\puzzlez\PR6_Tokareva_var34\resource\1471828a-c14e-43f2-8dee-016bc0c641bd\makPal_561.py
+2026-04-04T09:39:05+0300 INFO: Завершение выполнения процесса. C:\Users\Frilex\Desktop\puzzlez\PR6_Tokareva_var34\process\Процесс 1.json
+2026-04-04T09:55:39+0300 INFO: Запуск процесса из студии разработки. C:\Users\Frilex\Desktop\puzzlez\PR6_Tokareva_var34\process\Процесс 1.json
+2026-04-04T09:55:41+0300 INFO: Старт робота: C:\Users\Frilex\Desktop\puzzlez\PR6_Tokareva_var34\resource\36309336-7c29-44c0-a7d0-b48f1f10291a\makPal_561.py
+2026-04-04T09:55:49+0300 INFO: Завершение работы робота: C:\Users\Frilex\Desktop\puzzlez\PR6_Tokareva_var34\resource\36309336-7c29-44c0-a7d0-b48f1f10291a\makPal_561.py
+2026-04-04T09:55:50+0300 INFO: Завершение выполнения процесса. C:\Users\Frilex\Desktop\puzzlez\PR6_Tokareva_var34\process\Процесс 1.json
+2026-04-04T09:57:26+0300 INFO: Запуск процесса из студии разработки. C:\Users\Frilex\Desktop\puzzlez\PR6_Tokareva_var34\process\Процесс 1.json
+2026-04-04T09:57:27+0300 INFO: Старт робота: C:\Users\Frilex\Desktop\puzzlez\PR6_Tokareva_var34\resource\c72496f8-533d-4c50-95c4-9c28bd3e6de4\makPal_561.py
+2026-04-04T09:57:30+0300 INFO: Завершение работы робота: C:\Users\Frilex\Desktop\puzzlez\PR6_Tokareva_var34\resource\c72496f8-533d-4c50-95c4-9c28bd3e6de4\makPal_561.py
+2026-04-04T09:57:31+0300 INFO: Завершение выполнения процесса. C:\Users\Frilex\Desktop\puzzlez\PR6_Tokareva_var34\process\Процесс 1.json
+2026-04-04T09:58:16+0300 INFO: Запуск процесса из студии разработки. C:\Users\Frilex\Desktop\puzzlez\PR6_Tokareva_var34\process\Процесс 1.json
+2026-04-04T09:58:18+0300 INFO: Старт робота: C:\Users\Frilex\Desktop\puzzlez\PR6_Tokareva_var34\resource\b2fb9c29-3999-4c4f-88c9-34e8b693cc49\makPal_561.py
+2026-04-04T09:58:20+0300 INFO: Завершение работы робота: C:\Users\Frilex\Desktop\puzzlez\PR6_Tokareva_var34\resource\b2fb9c29-3999-4c4f-88c9-34e8b693cc49\makPal_561.py
+2026-04-04T09:58:20+0300 INFO: Завершение выполнения процесса. C:\Users\Frilex\Desktop\puzzlez\PR6_Tokareva_var34\process\Процесс 1.json
+2026-04-04T10:13:16+0300 INFO: Запуск процесса из студии разработки. C:\Users\Frilex\Desktop\puzzlez\PR6_Tokareva_var34\process\Процесс 2.json
+2026-04-04T10:13:17+0300 INFO: Старт робота: C:\Users\Frilex\Desktop\puzzlez\PR6_Tokareva_var34\resource\9021c08f-3c7b-44bc-8cb3-c0d1a2883aa0\kotov_194.py
+2026-04-04T10:13:27+0300 INFO: Завершение работы робота: C:\Users\Frilex\Desktop\puzzlez\PR6_Tokareva_var34\resource\9021c08f-3c7b-44bc-8cb3-c0d1a2883aa0\kotov_194.py
+2026-04-04T10:13:27+0300 INFO: Завершение выполнения процесса. C:\Users\Frilex\Desktop\puzzlez\PR6_Tokareva_var34\process\Процесс 2.json
+2026-04-04T10:16:12+0300 INFO: Запуск процесса из студии разработки. C:\Users\Frilex\Desktop\puzzlez\PR6_Tokareva_var34\process\Процесс 2.json
+2026-04-04T10:16:14+0300 INFO: Старт робота: C:\Users\Frilex\Desktop\puzzlez\PR6_Tokareva_var34\resource\9763b5ec-8f38-4e93-841d-313e87d29384\kotov_194.py
+2026-04-04T10:16:51+0300 INFO: Завершение работы робота: C:\Users\Frilex\Desktop\puzzlez\PR6_Tokareva_var34\resource\9763b5ec-8f38-4e93-841d-313e87d29384\kotov_194.py
+2026-04-04T10:16:52+0300 INFO: Завершение выполнения процесса. C:\Users\Frilex\Desktop\puzzlez\PR6_Tokareva_var34\process\Процесс 2.json
+2026-04-04T10:18:31+0300 INFO: Запуск процесса из студии разработки. C:\Users\Frilex\Desktop\puzzlez\PR6_Tokareva_var34\process\Процесс 2.json
+2026-04-04T10:18:33+0300 INFO: Старт робота: C:\Users\Frilex\Desktop\puzzlez\PR6_Tokareva_var34\resource\75b2d2e1-ed38-4cbc-8be5-30914d6d41a1\kotov_194.py
+2026-04-04T10:18:56+0300 INFO: Завершение работы робота: C:\Users\Frilex\Desktop\puzzlez\PR6_Tokareva_var34\resource\75b2d2e1-ed38-4cbc-8be5-30914d6d41a1\kotov_194.py
+2026-04-04T10:18:57+0300 INFO: Завершение выполнения процесса. C:\Users\Frilex\Desktop\puzzlez\PR6_Tokareva_var34\process\Процесс 2.json
