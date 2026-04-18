@@ -1,0 +1,84 @@
+2026-04-10T22:02:09+0300 INFO: Запуск процесса из студии разработки. C:\Users\Frilex\Desktop\puzzlez\PR7_Tokareva_var34\process\Процесс 1.json
+2026-04-10T22:02:12+0300 INFO: Старт робота: C:\Users\Frilex\Desktop\puzzlez\PR7_Tokareva_var34\resource\5a694f22-6da6-4906-b83b-2672efb46961\nexus_524.py
+2026-04-10T22:02:12+0300 INFO: Завершение работы робота: C:\Users\Frilex\Desktop\puzzlez\PR7_Tokareva_var34\resource\5a694f22-6da6-4906-b83b-2672efb46961\nexus_524.py
+2026-04-10T22:02:12+0300 INFO: Завершение выполнения процесса. C:\Users\Frilex\Desktop\puzzlez\PR7_Tokareva_var34\process\Процесс 1.json
+2026-04-10T22:02:36+0300 INFO: Запуск процесса из студии разработки. C:\Users\Frilex\Desktop\puzzlez\PR7_Tokareva_var34\process\Процесс 1.json
+2026-04-10T22:02:37+0300 INFO: Старт робота: C:\Users\Frilex\Desktop\puzzlez\PR7_Tokareva_var34\resource\37f8a829-0ea5-455d-b89c-65467618d888\nexus_524.py
+2026-04-10T22:02:37+0300 INFO: Завершение работы робота: C:\Users\Frilex\Desktop\puzzlez\PR7_Tokareva_var34\resource\37f8a829-0ea5-455d-b89c-65467618d888\nexus_524.py
+2026-04-10T22:02:37+0300 INFO: Завершение выполнения процесса. C:\Users\Frilex\Desktop\puzzlez\PR7_Tokareva_var34\process\Процесс 1.json
+2026-04-10T22:06:21+0300 INFO: Запуск процесса из студии разработки. C:\Users\Frilex\Desktop\puzzlez\PR7_Tokareva_var34\process\Процесс 1.json
+2026-04-10T22:06:21+0300 Окно выполнения: Процесс 1: ERROR:  ["stderr:","  File \"C:\\Users\\Frilex\\Desktop\\puzzlez\\PR7_Tokareva_var34\\resource\\a8b6067e-54eb-44a8-98fd-e8c421de303e\\nexus_524.py\", line 31\r\n    desktop_interface.wait_visible_el(focus_element=\"TRUE\",timeout_el=,element_string=f'',block_text=\"Ожидать появления элемента\",window_log=True, current_language=\"ru\")\r\n                                                                      ^\r\nSyntaxError: invalid syntax\r\n"]
+2026-04-10T22:06:24+0300 ERROR: Завершение выполнения процесса. C:\Users\Frilex\Desktop\puzzlez\PR7_Tokareva_var34\process\Процесс 1.json
+2026-04-10T22:06:29+0300 INFO: Запуск процесса из студии разработки. C:\Users\Frilex\Desktop\puzzlez\PR7_Tokareva_var34\process\Процесс 1.json
+2026-04-10T22:06:30+0300 INFO: Старт робота: C:\Users\Frilex\Desktop\puzzlez\PR7_Tokareva_var34\resource\43b1a5f5-a1a3-458b-b15e-77f97d5d078d\nexus_524.py
+2026-04-10T22:06:30+0300 INFO: Завершение работы робота: C:\Users\Frilex\Desktop\puzzlez\PR7_Tokareva_var34\resource\43b1a5f5-a1a3-458b-b15e-77f97d5d078d\nexus_524.py
+2026-04-10T22:06:30+0300 INFO: Завершение выполнения процесса. C:\Users\Frilex\Desktop\puzzlez\PR7_Tokareva_var34\process\Процесс 1.json
+2026-04-10T22:35:22+0300 INFO: Запуск процесса из студии разработки. C:\Users\Frilex\Desktop\puzzlez\PR7_Tokareva_var34\process\Процесс 1.json
+2026-04-10T22:35:28+0300 INFO: Старт робота: C:\Users\Frilex\Desktop\puzzlez\PR7_Tokareva_var34\resource\27967377-a8be-463f-bdd3-2f6882bdb7b2\nexus_524.py
+2026-04-10T22:35:28+0300 ERROR: C:\Users\Frilex\Desktop\puzzlez\PR7_Tokareva_var34\resource\27967377-a8be-463f-bdd3-2f6882bdb7b2\nexus_524.py Ошибка: [WinError 2] Не удается найти указанный файл
+2026-04-10T22:35:29+0300 Окно выполнения: Процесс 1: ERROR:  ["[WinError 2] Не удается найти указанный файл"]
+2026-04-10T22:35:34+0300 ERROR: Завершение выполнения процесса. C:\Users\Frilex\Desktop\puzzlez\PR7_Tokareva_var34\process\Процесс 1.json
+2026-04-10T22:35:41+0300 INFO: Запуск процесса из студии разработки. C:\Users\Frilex\Desktop\puzzlez\PR7_Tokareva_var34\process\Процесс 1.json
+2026-04-10T22:35:43+0300 INFO: Старт робота: C:\Users\Frilex\Desktop\puzzlez\PR7_Tokareva_var34\resource\abbe5cf5-7072-4546-b4cb-f97293fc6e1d\nexus_524.py
+2026-04-10T22:35:43+0300 ERROR: C:\Users\Frilex\Desktop\puzzlez\PR7_Tokareva_var34\resource\abbe5cf5-7072-4546-b4cb-f97293fc6e1d\nexus_524.py Ошибка: [WinError 2] Не удается найти указанный файл
+2026-04-10T22:35:43+0300 Окно выполнения: Процесс 1: ERROR:  ["[WinError 2] Не удается найти указанный файл"]
+2026-04-10T22:35:45+0300 ERROR: Завершение выполнения процесса. C:\Users\Frilex\Desktop\puzzlez\PR7_Tokareva_var34\process\Процесс 1.json
+2026-04-10T22:36:26+0300 INFO: Запуск процесса из студии разработки. C:\Users\Frilex\Desktop\puzzlez\PR7_Tokareva_var34\process\Процесс 1.json
+2026-04-10T22:36:28+0300 INFO: Старт робота: C:\Users\Frilex\Desktop\puzzlez\PR7_Tokareva_var34\resource\7bf5b463-7605-438e-8d5a-6a47f647c24c\nexus_524.py
+2026-04-10T22:36:28+0300 ERROR: C:\Users\Frilex\Desktop\puzzlez\PR7_Tokareva_var34\resource\7bf5b463-7605-438e-8d5a-6a47f647c24c\nexus_524.py Ошибка: [WinError 2] Не удается найти указанный файл
+2026-04-10T22:36:28+0300 Окно выполнения: Процесс 1: ERROR:  ["[WinError 2] Не удается найти указанный файл"]
+2026-04-10T22:36:36+0300 ERROR: Завершение выполнения процесса. C:\Users\Frilex\Desktop\puzzlez\PR7_Tokareva_var34\process\Процесс 1.json
+2026-04-10T22:37:06+0300 INFO: Запуск процесса из студии разработки. C:\Users\Frilex\Desktop\puzzlez\PR7_Tokareva_var34\process\Процесс 1.json
+2026-04-10T22:37:08+0300 INFO: Старт робота: C:\Users\Frilex\Desktop\puzzlez\PR7_Tokareva_var34\resource\64c495f7-ca6a-4545-bbbc-eb5b1756c2dd\nexus_524.py
+2026-04-10T22:37:08+0300 ERROR: C:\Users\Frilex\Desktop\puzzlez\PR7_Tokareva_var34\resource\64c495f7-ca6a-4545-bbbc-eb5b1756c2dd\nexus_524.py Ошибка: [WinError 2] Не удается найти указанный файл
+2026-04-10T22:37:09+0300 Окно выполнения: Процесс 1: ERROR:  ["[WinError 2] Не удается найти указанный файл"]
+2026-04-10T22:37:13+0300 ERROR: Завершение выполнения процесса. C:\Users\Frilex\Desktop\puzzlez\PR7_Tokareva_var34\process\Процесс 1.json
+2026-04-10T22:38:19+0300 INFO: Запуск процесса из студии разработки. C:\Users\Frilex\Desktop\puzzlez\PR7_Tokareva_var34\process\Процесс 1.json
+2026-04-10T22:38:21+0300 INFO: Старт робота: C:\Users\Frilex\Desktop\puzzlez\PR7_Tokareva_var34\resource\c68b3d5e-499c-492e-99b1-147ea1d0ca22\nexus_524.py
+2026-04-10T22:38:21+0300 ERROR: C:\Users\Frilex\Desktop\puzzlez\PR7_Tokareva_var34\resource\c68b3d5e-499c-492e-99b1-147ea1d0ca22\nexus_524.py Ошибка: [WinError 193] %1 не является приложением Win32
+2026-04-10T22:38:21+0300 Окно выполнения: Процесс 1: ERROR:  ["[WinError 193] %1 не является приложением Win32"]
+2026-04-10T22:38:32+0300 ERROR: Завершение выполнения процесса. C:\Users\Frilex\Desktop\puzzlez\PR7_Tokareva_var34\process\Процесс 1.json
+2026-04-10T22:39:09+0300 INFO: Запуск процесса из студии разработки. C:\Users\Frilex\Desktop\puzzlez\PR7_Tokareva_var34\process\Процесс 1.json
+2026-04-10T22:39:11+0300 INFO: Старт робота: C:\Users\Frilex\Desktop\puzzlez\PR7_Tokareva_var34\resource\1c17123d-3cfa-44a7-aa91-aec935811027\nexus_524.py
+2026-04-10T22:39:13+0300 ERROR: C:\Users\Frilex\Desktop\puzzlez\PR7_Tokareva_var34\resource\1c17123d-3cfa-44a7-aa91-aec935811027\nexus_524.py Ошибка: string indices must be integers, not 'str'
+2026-04-10T22:39:13+0300 Окно выполнения: Процесс 1: ERROR:  ["string indices must be integers, not 'str'"]
+2026-04-10T22:39:44+0300 INFO: Завершение выполнения процесса. C:\Users\Frilex\Desktop\puzzlez\PR7_Tokareva_var34\process\Процесс 1.json
+2026-04-10T22:42:23+0300 INFO: Запуск процесса из студии разработки. C:\Users\Frilex\Desktop\puzzlez\PR7_Tokareva_var34\process\Процесс 1.json
+2026-04-10T22:42:25+0300 INFO: Старт робота: C:\Users\Frilex\Desktop\puzzlez\PR7_Tokareva_var34\resource\a9c1f7ad-fb1c-4705-8dbe-f33489dc6043\nexus_524.py
+2026-04-10T22:42:26+0300 ERROR: C:\Users\Frilex\Desktop\puzzlez\PR7_Tokareva_var34\resource\a9c1f7ad-fb1c-4705-8dbe-f33489dc6043\nexus_524.py Ошибка: name 'campaign_value' is not defined
+2026-04-10T22:42:26+0300 Окно выполнения: Процесс 1: ERROR:  ["name 'campaign_value' is not defined"]
+2026-04-10T22:42:28+0300 INFO: Завершение выполнения процесса. C:\Users\Frilex\Desktop\puzzlez\PR7_Tokareva_var34\process\Процесс 1.json
+2026-04-10T22:42:37+0300 INFO: Запуск процесса из студии разработки. C:\Users\Frilex\Desktop\puzzlez\PR7_Tokareva_var34\process\Процесс 1.json
+2026-04-10T22:42:39+0300 INFO: Старт робота: C:\Users\Frilex\Desktop\puzzlez\PR7_Tokareva_var34\resource\964b6c75-f7a6-40b4-b5d9-5475d5013c30\nexus_524.py
+2026-04-10T22:42:39+0300 ERROR: C:\Users\Frilex\Desktop\puzzlez\PR7_Tokareva_var34\resource\964b6c75-f7a6-40b4-b5d9-5475d5013c30\nexus_524.py Ошибка: name 'campaign_value' is not defined
+2026-04-10T22:42:39+0300 Окно выполнения: Процесс 1: ERROR:  ["name 'campaign_value' is not defined"]
+2026-04-10T22:42:49+0300 ERROR: Завершение выполнения процесса. C:\Users\Frilex\Desktop\puzzlez\PR7_Tokareva_var34\process\Процесс 1.json
+2026-04-10T22:43:37+0300 INFO: Запуск процесса из студии разработки. C:\Users\Frilex\Desktop\puzzlez\PR7_Tokareva_var34\process\Процесс 1.json
+2026-04-10T22:43:39+0300 INFO: Старт робота: C:\Users\Frilex\Desktop\puzzlez\PR7_Tokareva_var34\resource\e9da98ea-04e6-4070-af52-2dc7cfd97014\nexus_524.py
+2026-04-10T22:43:41+0300 INFO: Завершение работы робота: C:\Users\Frilex\Desktop\puzzlez\PR7_Tokareva_var34\resource\e9da98ea-04e6-4070-af52-2dc7cfd97014\nexus_524.py
+2026-04-10T22:43:41+0300 INFO: Завершение выполнения процесса. C:\Users\Frilex\Desktop\puzzlez\PR7_Tokareva_var34\process\Процесс 1.json
+2026-04-10T22:45:50+0300 INFO: Запуск процесса из студии разработки. C:\Users\Frilex\Desktop\puzzlez\PR7_Tokareva_var34\process\Процесс 1.json
+2026-04-10T22:45:52+0300 INFO: Старт робота: C:\Users\Frilex\Desktop\puzzlez\PR7_Tokareva_var34\resource\fc441f14-4b5e-4ddb-bdb7-082b5f2783f8\nexus_524.py
+2026-04-10T22:45:54+0300 INFO: Завершение работы робота: C:\Users\Frilex\Desktop\puzzlez\PR7_Tokareva_var34\resource\fc441f14-4b5e-4ddb-bdb7-082b5f2783f8\nexus_524.py
+2026-04-10T22:45:55+0300 INFO: Завершение выполнения процесса. C:\Users\Frilex\Desktop\puzzlez\PR7_Tokareva_var34\process\Процесс 1.json
+2026-04-10T22:46:15+0300 INFO: Запуск процесса из студии разработки. C:\Users\Frilex\Desktop\puzzlez\PR7_Tokareva_var34\process\Процесс 1.json
+2026-04-10T22:46:16+0300 INFO: Старт робота: C:\Users\Frilex\Desktop\puzzlez\PR7_Tokareva_var34\resource\34db3f6a-d5e8-482d-a907-6ed89baec181\nexus_524.py
+2026-04-10T22:46:19+0300 INFO: Завершение работы робота: C:\Users\Frilex\Desktop\puzzlez\PR7_Tokareva_var34\resource\34db3f6a-d5e8-482d-a907-6ed89baec181\nexus_524.py
+2026-04-10T22:46:20+0300 INFO: Завершение выполнения процесса. C:\Users\Frilex\Desktop\puzzlez\PR7_Tokareva_var34\process\Процесс 1.json
+2026-04-10T22:49:40+0300 INFO: Запуск процесса из студии разработки. C:\Users\Frilex\Desktop\puzzlez\PR7_Tokareva_var34\process\Процесс 1.json
+2026-04-10T22:49:43+0300 INFO: Старт робота: C:\Users\Frilex\Desktop\puzzlez\PR7_Tokareva_var34\resource\e95e5546-3945-40d4-9cae-6335e625b504\nexus_524.py
+2026-04-10T22:49:46+0300 INFO: Завершение работы робота: C:\Users\Frilex\Desktop\puzzlez\PR7_Tokareva_var34\resource\e95e5546-3945-40d4-9cae-6335e625b504\nexus_524.py
+2026-04-10T22:49:46+0300 INFO: Завершение выполнения процесса. C:\Users\Frilex\Desktop\puzzlez\PR7_Tokareva_var34\process\Процесс 1.json
+2026-04-10T22:52:36+0300 INFO: Запуск процесса из студии разработки. C:\Users\Frilex\Desktop\puzzlez\PR7_Tokareva_var34\process\Процесс 1.json
+2026-04-10T22:52:38+0300 INFO: Старт робота: C:\Users\Frilex\Desktop\puzzlez\PR7_Tokareva_var34\resource\e5d6b1e4-048a-402e-8b8f-2764fd3c05ad\nexus_524.py
+2026-04-10T22:52:41+0300 INFO: Завершение работы робота: C:\Users\Frilex\Desktop\puzzlez\PR7_Tokareva_var34\resource\e5d6b1e4-048a-402e-8b8f-2764fd3c05ad\nexus_524.py
+2026-04-10T22:52:41+0300 INFO: Завершение выполнения процесса. C:\Users\Frilex\Desktop\puzzlez\PR7_Tokareva_var34\process\Процесс 1.json
+2026-04-10T22:54:05+0300 INFO: Запуск процесса из студии разработки. C:\Users\Frilex\Desktop\puzzlez\PR7_Tokareva_var34\process\Процесс 1.json
+2026-04-10T22:54:07+0300 INFO: Старт робота: C:\Users\Frilex\Desktop\puzzlez\PR7_Tokareva_var34\resource\5532d842-56da-4891-9c1e-33813d801609\nexus_524.py
+2026-04-10T22:54:07+0300 ERROR: C:\Users\Frilex\Desktop\puzzlez\PR7_Tokareva_var34\resource\5532d842-56da-4891-9c1e-33813d801609\nexus_524.py Ошибка: 'PaneControl' object has no attribute 'GetValuePattern'
+2026-04-10T22:54:07+0300 Окно выполнения: Процесс 1: ERROR:  ["'PaneControl' object has no attribute 'GetValuePattern'"]
+2026-04-10T22:55:15+0300 INFO: Завершение выполнения процесса. C:\Users\Frilex\Desktop\puzzlez\PR7_Tokareva_var34\process\Процесс 1.json
+2026-04-10T23:00:27+0300 INFO: Запуск процесса из студии разработки. C:\Users\Frilex\Desktop\puzzlez\PR7_Tokareva_var34\process\Процесс 1.json
+2026-04-10T23:00:30+0300 INFO: Старт робота: C:\Users\Frilex\Desktop\puzzlez\PR7_Tokareva_var34\resource\dae87183-9ca5-4c64-a34b-91e20e27e278\nexus_524.py
+2026-04-10T23:00:30+0300 INFO: Завершение работы робота: C:\Users\Frilex\Desktop\puzzlez\PR7_Tokareva_var34\resource\dae87183-9ca5-4c64-a34b-91e20e27e278\nexus_524.py
+2026-04-10T23:00:30+0300 INFO: Завершение выполнения процесса. C:\Users\Frilex\Desktop\puzzlez\PR7_Tokareva_var34\process\Процесс 1.json
