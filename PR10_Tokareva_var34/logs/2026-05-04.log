@@ -1,0 +1,256 @@
+2026-05-04T12:05:41+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\AppData\Local\Programs\PuzzleRPA\2.2.3\Studio\resources\_tmp\projects\PR9_RPA_Web_p1_var11\process\PR9_RPA_Web_p1_var11.json
+2026-05-04T12:05:47+0300 INFO: Старт робота: C:\Users\NKTKLN\AppData\Local\Programs\PuzzleRPA\2.2.3\Studio\resources\_tmp\projects\PR9_RPA_Web_p1_var11\resource\109f064f-c9d3-4436-8b25-226fc5542492\miraash_567.py
+2026-05-04T12:05:47+0300 ERROR: C:\Users\NKTKLN\AppData\Local\Programs\PuzzleRPA\2.2.3\Studio\resources\_tmp\projects\PR9_RPA_Web_p1_var11\resource\109f064f-c9d3-4436-8b25-226fc5542492\miraash_567.py Ошибка: name 'utf' is not defined
+2026-05-04T12:05:48+0300 Окно выполнения: PR9_RPA_Web_p1_var11: ERROR:  ["name 'utf' is not defined"]
+2026-05-04T12:05:53+0300 ERROR: Завершение выполнения процесса. C:\Users\NKTKLN\AppData\Local\Programs\PuzzleRPA\2.2.3\Studio\resources\_tmp\projects\PR9_RPA_Web_p1_var11\process\PR9_RPA_Web_p1_var11.json
+2026-05-04T12:07:13+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\AppData\Local\Programs\PuzzleRPA\2.2.3\Studio\resources\_tmp\projects\PR9_RPA_Web_p1_var11\process\PR9_RPA_Web_p1_var11.json
+2026-05-04T12:07:16+0300 INFO: Старт робота: C:\Users\NKTKLN\AppData\Local\Programs\PuzzleRPA\2.2.3\Studio\resources\_tmp\projects\PR9_RPA_Web_p1_var11\resource\c3a7fb7f-f3f9-4310-8781-b1ef2aa295f8\miraash_567.py
+2026-05-04T12:07:23+0300 INFO: Завершение работы робота: C:\Users\NKTKLN\AppData\Local\Programs\PuzzleRPA\2.2.3\Studio\resources\_tmp\projects\PR9_RPA_Web_p1_var11\resource\c3a7fb7f-f3f9-4310-8781-b1ef2aa295f8\miraash_567.py
+2026-05-04T12:07:26+0300 INFO: Завершение выполнения процесса. C:\Users\NKTKLN\AppData\Local\Programs\PuzzleRPA\2.2.3\Studio\resources\_tmp\projects\PR9_RPA_Web_p1_var11\process\PR9_RPA_Web_p1_var11.json
+2026-05-04T12:10:49+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\AppData\Local\Programs\PuzzleRPA\2.2.3\Studio\resources\_tmp\projects\PR9_RPA_Web_p1_var11\process\PR9_RPA_Web_p1_var11.json
+2026-05-04T12:10:52+0300 INFO: Старт робота: C:\Users\NKTKLN\AppData\Local\Programs\PuzzleRPA\2.2.3\Studio\resources\_tmp\projects\PR9_RPA_Web_p1_var11\resource\4132f12a-845d-4d6c-9caf-49036d5c6331\miraash_567.py
+2026-05-04T12:11:03+0300 INFO: Завершение работы робота: C:\Users\NKTKLN\AppData\Local\Programs\PuzzleRPA\2.2.3\Studio\resources\_tmp\projects\PR9_RPA_Web_p1_var11\resource\4132f12a-845d-4d6c-9caf-49036d5c6331\miraash_567.py
+2026-05-04T12:11:03+0300 INFO: Завершение выполнения процесса. C:\Users\NKTKLN\AppData\Local\Programs\PuzzleRPA\2.2.3\Studio\resources\_tmp\projects\PR9_RPA_Web_p1_var11\process\PR9_RPA_Web_p1_var11.json
+2026-05-04T12:21:29+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\AppData\Local\Programs\PuzzleRPA\2.2.3\Studio\resources\_tmp\projects\PR9_RPA_Web_p1_var11\process\PR9_RPA_Web_p1_var11.json
+2026-05-04T12:21:32+0300 INFO: Старт робота: C:\Users\NKTKLN\AppData\Local\Programs\PuzzleRPA\2.2.3\Studio\resources\_tmp\projects\PR9_RPA_Web_p1_var11\resource\fc137c77-7246-476d-9e23-53c52ad3218e\miraash_567.py
+2026-05-04T12:21:44+0300 ERROR: C:\Users\NKTKLN\AppData\Local\Programs\PuzzleRPA\2.2.3\Studio\resources\_tmp\projects\PR9_RPA_Web_p1_var11\resource\fc137c77-7246-476d-9e23-53c52ad3218e\miraash_567.py Ошибка: name 'input_data' is not defined
+2026-05-04T12:21:44+0300 Окно выполнения: PR9_RPA_Web_p1_var11: ERROR:  ["name 'input_data' is not defined"]
+2026-05-04T12:21:52+0300 ERROR: Завершение выполнения процесса. C:\Users\NKTKLN\AppData\Local\Programs\PuzzleRPA\2.2.3\Studio\resources\_tmp\projects\PR9_RPA_Web_p1_var11\process\PR9_RPA_Web_p1_var11.json
+2026-05-04T12:22:10+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\AppData\Local\Programs\PuzzleRPA\2.2.3\Studio\resources\_tmp\projects\PR9_RPA_Web_p1_var11\process\PR9_RPA_Web_p1_var11.json
+2026-05-04T12:22:13+0300 INFO: Старт робота: C:\Users\NKTKLN\AppData\Local\Programs\PuzzleRPA\2.2.3\Studio\resources\_tmp\projects\PR9_RPA_Web_p1_var11\resource\160b2318-0801-4bc5-b00d-aa12b31213ca\miraash_567.py
+2026-05-04T12:22:35+0300 ERROR: C:\Users\NKTKLN\AppData\Local\Programs\PuzzleRPA\2.2.3\Studio\resources\_tmp\projects\PR9_RPA_Web_p1_var11\resource\160b2318-0801-4bc5-b00d-aa12b31213ca\miraash_567.py Ошибка: Элемент не найден: XPATH=/html/body/main["app_root"]/section["form_section"]/form["incident_form"]/div["field_title_group"]/input
+2026-05-04T12:22:35+0300 Окно выполнения: PR9_RPA_Web_p1_var11: ERROR:  ["Элемент не найден: XPATH=/html/body/main[\"app_root\"]/section[\"form_section\"]/form[\"incident_form\"]/div[\"field_title_group\"]/input"]
+2026-05-04T12:22:43+0300 ERROR: Завершение выполнения процесса. C:\Users\NKTKLN\AppData\Local\Programs\PuzzleRPA\2.2.3\Studio\resources\_tmp\projects\PR9_RPA_Web_p1_var11\process\PR9_RPA_Web_p1_var11.json
+2026-05-04T12:23:43+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\AppData\Local\Programs\PuzzleRPA\2.2.3\Studio\resources\_tmp\projects\PR9_RPA_Web_p1_var11\process\PR9_RPA_Web_p1_var11.json
+2026-05-04T12:23:46+0300 INFO: Старт робота: C:\Users\NKTKLN\AppData\Local\Programs\PuzzleRPA\2.2.3\Studio\resources\_tmp\projects\PR9_RPA_Web_p1_var11\resource\11be474b-5356-430f-82ad-f3cf8cb50412\miraash_567.py
+2026-05-04T12:24:08+0300 ERROR: C:\Users\NKTKLN\AppData\Local\Programs\PuzzleRPA\2.2.3\Studio\resources\_tmp\projects\PR9_RPA_Web_p1_var11\resource\11be474b-5356-430f-82ad-f3cf8cb50412\miraash_567.py Ошибка: Элемент не найден: XPATH=//input[@id='incident_title']
+2026-05-04T12:24:08+0300 Окно выполнения: PR9_RPA_Web_p1_var11: ERROR:  ["Элемент не найден: XPATH=//input[@id='incident_title']"]
+2026-05-04T12:24:12+0300 ERROR: Завершение выполнения процесса. C:\Users\NKTKLN\AppData\Local\Programs\PuzzleRPA\2.2.3\Studio\resources\_tmp\projects\PR9_RPA_Web_p1_var11\process\PR9_RPA_Web_p1_var11.json
+2026-05-04T12:24:23+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\AppData\Local\Programs\PuzzleRPA\2.2.3\Studio\resources\_tmp\projects\PR9_RPA_Web_p1_var11\process\PR9_RPA_Web_p1_var11.json
+2026-05-04T12:24:26+0300 INFO: Старт робота: C:\Users\NKTKLN\AppData\Local\Programs\PuzzleRPA\2.2.3\Studio\resources\_tmp\projects\PR9_RPA_Web_p1_var11\resource\c4838e62-5513-4e51-8e94-338bfa15737b\miraash_567.py
+2026-05-04T12:24:36+0300 INFO: Завершение работы робота: C:\Users\NKTKLN\AppData\Local\Programs\PuzzleRPA\2.2.3\Studio\resources\_tmp\projects\PR9_RPA_Web_p1_var11\resource\c4838e62-5513-4e51-8e94-338bfa15737b\miraash_567.py
+2026-05-04T12:24:36+0300 INFO: Завершение выполнения процесса. C:\Users\NKTKLN\AppData\Local\Programs\PuzzleRPA\2.2.3\Studio\resources\_tmp\projects\PR9_RPA_Web_p1_var11\process\PR9_RPA_Web_p1_var11.json
+2026-05-04T12:32:59+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_9\PR9_RPA_Web_p1_var11\PR9_RPA_Web_p1_var11\process\PR9_RPA_Web_p1_var11.json
+2026-05-04T12:33:01+0300 Окно выполнения: PR9_RPA_Web_p1_var11: ERROR:  ["stderr:","  File \"C:\\Users\\NKTKLN\\Desktop\\MIREA\\PoCS\\practice_9\\PR9_RPA_Web_p1_var11\\PR9_RPA_Web_p1_var11\\resource\\52862c74-987d-49dd-8273-8bae96d9ed0b\\miraash_567.py\", line 35\r\n    TextTooLog(f\"Заполнение формы для {input_data[\\\"title\\\"]}\")\r\n                                                              ^\r\nSyntaxError: f-string expression part cannot include a backslash\r\n"]
+2026-05-04T12:33:14+0300 ERROR: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_9\PR9_RPA_Web_p1_var11\PR9_RPA_Web_p1_var11\process\PR9_RPA_Web_p1_var11.json
+2026-05-04T12:33:26+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_9\PR9_RPA_Web_p1_var11\PR9_RPA_Web_p1_var11\process\PR9_RPA_Web_p1_var11.json
+2026-05-04T12:33:30+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_9\PR9_RPA_Web_p1_var11\PR9_RPA_Web_p1_var11\resource\0aabc310-8fd9-4a9b-a2a4-1bc41c40d15f\miraash_567.py
+2026-05-04T12:33:42+0300 INFO: Завершение работы робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_9\PR9_RPA_Web_p1_var11\PR9_RPA_Web_p1_var11\resource\0aabc310-8fd9-4a9b-a2a4-1bc41c40d15f\miraash_567.py
+2026-05-04T12:33:42+0300 INFO: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_9\PR9_RPA_Web_p1_var11\PR9_RPA_Web_p1_var11\process\PR9_RPA_Web_p1_var11.json
+2026-05-04T12:38:57+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_9\PR9_RPA_Web_p1_var11\PR9_RPA_Web_p1_var11\process\PR9_RPA_Web_p1_var11.json
+2026-05-04T12:39:01+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_9\PR9_RPA_Web_p1_var11\PR9_RPA_Web_p1_var11\resource\4885c461-7ecc-43c6-a905-7449458acd44\miraash_567.py
+2026-05-04T12:39:12+0300 INFO: Завершение работы робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_9\PR9_RPA_Web_p1_var11\PR9_RPA_Web_p1_var11\resource\4885c461-7ecc-43c6-a905-7449458acd44\miraash_567.py
+2026-05-04T12:39:12+0300 INFO: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_9\PR9_RPA_Web_p1_var11\PR9_RPA_Web_p1_var11\process\PR9_RPA_Web_p1_var11.json
+2026-05-04T12:50:29+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_9\PR9_RPA_Web_p1_var11\PR9_RPA_Web_p1_var11\process\PR9_RPA_Web_p1_var11.json
+2026-05-04T12:50:32+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_9\PR9_RPA_Web_p1_var11\PR9_RPA_Web_p1_var11\resource\7d4bc6cb-b2e7-4be0-821e-2d68e3e42b5a\miraash_567.py
+2026-05-04T12:50:52+0300 INFO: Завершение работы робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_9\PR9_RPA_Web_p1_var11\PR9_RPA_Web_p1_var11\resource\7d4bc6cb-b2e7-4be0-821e-2d68e3e42b5a\miraash_567.py
+2026-05-04T12:50:54+0300 INFO: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_9\PR9_RPA_Web_p1_var11\PR9_RPA_Web_p1_var11\process\PR9_RPA_Web_p1_var11.json
+2026-05-04T12:54:04+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_9\PR9_RPA_Web_p1_var11\PR9_RPA_Web_p1_var11\process\PR9_RPA_Web_p1_var11.json
+2026-05-04T12:54:07+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_9\PR9_RPA_Web_p1_var11\PR9_RPA_Web_p1_var11\resource\90d3f237-7dfa-4f8a-ab29-c94200417def\miraash_567.py
+2026-05-04T12:54:23+0300 INFO: Завершение работы робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_9\PR9_RPA_Web_p1_var11\PR9_RPA_Web_p1_var11\resource\90d3f237-7dfa-4f8a-ab29-c94200417def\miraash_567.py
+2026-05-04T12:54:25+0300 INFO: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_9\PR9_RPA_Web_p1_var11\PR9_RPA_Web_p1_var11\process\PR9_RPA_Web_p1_var11.json
+2026-05-04T13:04:00+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_9\PR9_RPA_Web_p1_var11\PR9_RPA_Web_p1_var11\process\PR9_RPA_Web_p1_var11.json
+2026-05-04T13:04:03+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_9\PR9_RPA_Web_p1_var11\PR9_RPA_Web_p1_var11\resource\c5e386f7-179f-4ede-9d63-de63eb9cdbc9\miraash_567.py
+2026-05-04T13:04:14+0300 INFO: Завершение работы робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_9\PR9_RPA_Web_p1_var11\PR9_RPA_Web_p1_var11\resource\c5e386f7-179f-4ede-9d63-de63eb9cdbc9\miraash_567.py
+2026-05-04T13:04:15+0300 INFO: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_9\PR9_RPA_Web_p1_var11\PR9_RPA_Web_p1_var11\process\PR9_RPA_Web_p1_var11.json
+2026-05-04T13:05:07+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_9\PR9_RPA_Web_p1_var11\PR9_RPA_Web_p1_var11\process\PR9_RPA_Web_p1_var11.json
+2026-05-04T13:05:10+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_9\PR9_RPA_Web_p1_var11\PR9_RPA_Web_p1_var11\resource\9782fcd6-f2e9-4ab0-a906-d5a6b31ae7e0\miraash_567.py
+2026-05-04T13:05:27+0300 INFO: Завершение работы робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_9\PR9_RPA_Web_p1_var11\PR9_RPA_Web_p1_var11\resource\9782fcd6-f2e9-4ab0-a906-d5a6b31ae7e0\miraash_567.py
+2026-05-04T13:05:29+0300 INFO: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_9\PR9_RPA_Web_p1_var11\PR9_RPA_Web_p1_var11\process\PR9_RPA_Web_p1_var11.json
+2026-05-04T13:06:02+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_9\PR9_RPA_Web_p1_var11\PR9_RPA_Web_p1_var11\process\PR9_RPA_Web_p1_var11.json
+2026-05-04T13:06:06+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_9\PR9_RPA_Web_p1_var11\PR9_RPA_Web_p1_var11\resource\8ce71f65-d123-40cd-a800-54294fb51144\miraash_567.py
+2026-05-04T13:06:24+0300 INFO: Завершение работы робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_9\PR9_RPA_Web_p1_var11\PR9_RPA_Web_p1_var11\resource\8ce71f65-d123-40cd-a800-54294fb51144\miraash_567.py
+2026-05-04T13:06:26+0300 INFO: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_9\PR9_RPA_Web_p1_var11\PR9_RPA_Web_p1_var11\process\PR9_RPA_Web_p1_var11.json
+2026-05-04T13:06:49+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_9\PR9_RPA_Web_p1_var11\PR9_RPA_Web_p1_var11\process\PR9_RPA_Web_p1_var11.json
+2026-05-04T13:06:52+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_9\PR9_RPA_Web_p1_var11\PR9_RPA_Web_p1_var11\resource\87647bfa-79e7-4370-9f24-e1605ef5a863\miraash_567.py
+2026-05-04T13:07:11+0300 INFO: Завершение работы робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_9\PR9_RPA_Web_p1_var11\PR9_RPA_Web_p1_var11\resource\87647bfa-79e7-4370-9f24-e1605ef5a863\miraash_567.py
+2026-05-04T13:07:15+0300 INFO: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_9\PR9_RPA_Web_p1_var11\PR9_RPA_Web_p1_var11\process\PR9_RPA_Web_p1_var11.json
+2026-05-04T13:08:26+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_9\PR9_RPA_Web_p1_var11\PR9_RPA_Web_p1_var11\process\PR9_RPA_Web_p1_var11.json
+2026-05-04T13:08:29+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_9\PR9_RPA_Web_p1_var11\PR9_RPA_Web_p1_var11\resource\255eb813-4a54-46c7-a178-a098df2d79b4\miraash_567.py
+2026-05-04T13:08:46+0300 INFO: Завершение работы робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_9\PR9_RPA_Web_p1_var11\PR9_RPA_Web_p1_var11\resource\255eb813-4a54-46c7-a178-a098df2d79b4\miraash_567.py
+2026-05-04T13:08:49+0300 INFO: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_9\PR9_RPA_Web_p1_var11\PR9_RPA_Web_p1_var11\process\PR9_RPA_Web_p1_var11.json
+2026-05-04T13:09:19+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_9\PR9_RPA_Web_p1_var11\PR9_RPA_Web_p1_var11\process\PR9_RPA_Web_p1_var11.json
+2026-05-04T13:09:23+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_9\PR9_RPA_Web_p1_var11\PR9_RPA_Web_p1_var11\resource\b2fde3e8-005c-4801-a91d-e18c77202823\miraash_567.py
+2026-05-04T13:09:41+0300 INFO: Завершение работы робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_9\PR9_RPA_Web_p1_var11\PR9_RPA_Web_p1_var11\resource\b2fde3e8-005c-4801-a91d-e18c77202823\miraash_567.py
+2026-05-04T13:09:44+0300 INFO: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_9\PR9_RPA_Web_p1_var11\PR9_RPA_Web_p1_var11\process\PR9_RPA_Web_p1_var11.json
+2026-05-04T13:13:23+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_9\PR9_RPA_Web_p1_var11\PR9_RPA_Web_p1_var11\process\PR9_RPA_Web_p1_var11.json
+2026-05-04T13:13:26+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_9\PR9_RPA_Web_p1_var11\PR9_RPA_Web_p1_var11\resource\547f7d00-f6cc-4853-bc50-d9a0530b863a\miraash_567.py
+2026-05-04T13:13:43+0300 INFO: Завершение работы робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_9\PR9_RPA_Web_p1_var11\PR9_RPA_Web_p1_var11\resource\547f7d00-f6cc-4853-bc50-d9a0530b863a\miraash_567.py
+2026-05-04T13:13:46+0300 INFO: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_9\PR9_RPA_Web_p1_var11\PR9_RPA_Web_p1_var11\process\PR9_RPA_Web_p1_var11.json
+2026-05-04T13:19:22+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_9\PR9_RPA_Web_p1_var11\PR9_RPA_Web_p1_var11\process\PR9_RPA_Web_p1_var11.json
+2026-05-04T13:19:26+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_9\PR9_RPA_Web_p1_var11\PR9_RPA_Web_p1_var11\resource\e8db6c90-9bb2-4238-a4e0-bf9fa67f331b\miraash_567.py
+2026-05-04T13:19:33+0300 ERROR: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_9\PR9_RPA_Web_p1_var11\PR9_RPA_Web_p1_var11\resource\e8db6c90-9bb2-4238-a4e0-bf9fa67f331b\miraash_567.py Ошибка: The element is not visible
+2026-05-04T13:19:33+0300 Окно выполнения: PR9_RPA_Web_p1_var11: ERROR:  ["The element is not visible"]
+2026-05-04T13:19:38+0300 ERROR: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_9\PR9_RPA_Web_p1_var11\PR9_RPA_Web_p1_var11\process\PR9_RPA_Web_p1_var11.json
+2026-05-04T13:21:17+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_9\PR9_RPA_Web_p1_var11\PR9_RPA_Web_p1_var11\process\PR9_RPA_Web_p1_var11.json
+2026-05-04T13:21:21+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_9\PR9_RPA_Web_p1_var11\PR9_RPA_Web_p1_var11\resource\d368db3e-0de9-451b-b278-fc47832dc983\miraash_567.py
+2026-05-04T13:21:47+0300 INFO: Завершение работы робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_9\PR9_RPA_Web_p1_var11\PR9_RPA_Web_p1_var11\resource\d368db3e-0de9-451b-b278-fc47832dc983\miraash_567.py
+2026-05-04T13:21:50+0300 INFO: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_9\PR9_RPA_Web_p1_var11\PR9_RPA_Web_p1_var11\process\PR9_RPA_Web_p1_var11.json
+2026-05-04T13:22:22+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_9\PR9_RPA_Web_p1_var11\PR9_RPA_Web_p1_var11\process\PR9_RPA_Web_p1_var11.json
+2026-05-04T13:22:25+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_9\PR9_RPA_Web_p1_var11\PR9_RPA_Web_p1_var11\resource\4de87f84-f029-40b0-8411-b7947e75bfc7\miraash_567.py
+2026-05-04T13:23:29+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_9\PR9_RPA_Web_p1_var11\PR9_RPA_Web_p1_var11\process\PR9_RPA_Web_p1_var11.json
+2026-05-04T13:23:32+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_9\PR9_RPA_Web_p1_var11\PR9_RPA_Web_p1_var11\resource\418f0260-b1fa-4eec-8227-3fa92e5cbdb1\miraash_567.py
+2026-05-04T13:23:44+0300 INFO: Завершение работы робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_9\PR9_RPA_Web_p1_var11\PR9_RPA_Web_p1_var11\resource\4de87f84-f029-40b0-8411-b7947e75bfc7\miraash_567.py
+2026-05-04T13:23:47+0300 INFO: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_9\PR9_RPA_Web_p1_var11\PR9_RPA_Web_p1_var11\process\PR9_RPA_Web_p1_var11.json
+2026-05-04T13:24:02+0300 INFO: Завершение работы робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_9\PR9_RPA_Web_p1_var11\PR9_RPA_Web_p1_var11\resource\418f0260-b1fa-4eec-8227-3fa92e5cbdb1\miraash_567.py
+2026-05-04T13:24:05+0300 INFO: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_9\PR9_RPA_Web_p1_var11\PR9_RPA_Web_p1_var11\process\PR9_RPA_Web_p1_var11.json
+2026-05-04T13:24:45+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_9\PR9_RPA_Web_p1_var11\PR9_RPA_Web_p1_var11\process\PR9_RPA_Web_p1_var11.json
+2026-05-04T13:24:48+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_9\PR9_RPA_Web_p1_var11\PR9_RPA_Web_p1_var11\resource\71f9ca79-6ff1-4857-b042-38069e6fa450\miraash_567.py
+2026-05-04T13:25:19+0300 INFO: Завершение работы робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_9\PR9_RPA_Web_p1_var11\PR9_RPA_Web_p1_var11\resource\71f9ca79-6ff1-4857-b042-38069e6fa450\miraash_567.py
+2026-05-04T13:25:21+0300 INFO: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_9\PR9_RPA_Web_p1_var11\PR9_RPA_Web_p1_var11\process\PR9_RPA_Web_p1_var11.json
+2026-05-04T13:26:53+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_9\PR9_RPA_Web_p1_var11\PR9_RPA_Web_p1_var11\process\PR9_RPA_Web_p1_var11.json
+2026-05-04T13:26:56+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_9\PR9_RPA_Web_p1_var11\PR9_RPA_Web_p1_var11\resource\1044ec52-6994-4950-aee6-9ee280438623\miraash_567.py
+2026-05-04T13:27:25+0300 INFO: Завершение работы робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_9\PR9_RPA_Web_p1_var11\PR9_RPA_Web_p1_var11\resource\1044ec52-6994-4950-aee6-9ee280438623\miraash_567.py
+2026-05-04T13:27:27+0300 INFO: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_9\PR9_RPA_Web_p1_var11\PR9_RPA_Web_p1_var11\process\PR9_RPA_Web_p1_var11.json
+2026-05-04T13:30:53+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_9\PR9_RPA_Web_p1_var11\PR9_RPA_Web_p1_var11\process\PR9_RPA_Web_p1_var11.json
+2026-05-04T13:30:56+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_9\PR9_RPA_Web_p1_var11\PR9_RPA_Web_p1_var11\resource\5924ef90-7d0b-4069-9032-5b8b3a3f1a27\miraash_567.py
+2026-05-04T13:31:20+0300 INFO: Завершение работы робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_9\PR9_RPA_Web_p1_var11\PR9_RPA_Web_p1_var11\resource\5924ef90-7d0b-4069-9032-5b8b3a3f1a27\miraash_567.py
+2026-05-04T13:31:20+0300 INFO: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_9\PR9_RPA_Web_p1_var11\PR9_RPA_Web_p1_var11\process\PR9_RPA_Web_p1_var11.json
+2026-05-04T13:31:48+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_9\PR9_RPA_Web_p1_var11\PR9_RPA_Web_p1_var11\process\PR9_RPA_Web_p1_var11.json
+2026-05-04T13:31:51+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_9\PR9_RPA_Web_p1_var11\PR9_RPA_Web_p1_var11\resource\c2af60b5-86e9-4b18-abdd-4480ae61961a\miraash_567.py
+2026-05-04T13:32:21+0300 INFO: Завершение работы робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_9\PR9_RPA_Web_p1_var11\PR9_RPA_Web_p1_var11\resource\c2af60b5-86e9-4b18-abdd-4480ae61961a\miraash_567.py
+2026-05-04T13:32:23+0300 INFO: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_9\PR9_RPA_Web_p1_var11\PR9_RPA_Web_p1_var11\process\PR9_RPA_Web_p1_var11.json
+2026-05-04T13:36:48+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_9\PR9_RPA_Web_p1_var11\PR9_RPA_Web_p1_var11\process\PR9_RPA_Web_p1_var11.json
+2026-05-04T13:36:52+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_9\PR9_RPA_Web_p1_var11\PR9_RPA_Web_p1_var11\resource\5168e917-3641-4ac4-bb93-a573a76049a3\miraash_567.py
+2026-05-04T13:37:19+0300 INFO: Завершение работы робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_9\PR9_RPA_Web_p1_var11\PR9_RPA_Web_p1_var11\resource\5168e917-3641-4ac4-bb93-a573a76049a3\miraash_567.py
+2026-05-04T13:37:21+0300 INFO: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_9\PR9_RPA_Web_p1_var11\PR9_RPA_Web_p1_var11\process\PR9_RPA_Web_p1_var11.json
+2026-05-04T13:37:24+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_9\PR9_RPA_Web_p1_var11\PR9_RPA_Web_p1_var11\process\PR9_RPA_Web_p1_var11.json
+2026-05-04T13:37:27+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_9\PR9_RPA_Web_p1_var11\PR9_RPA_Web_p1_var11\resource\147191f8-cd5d-4c31-9929-f7e2a1a25a60\miraash_567.py
+2026-05-04T13:38:03+0300 INFO: Завершение работы робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_9\PR9_RPA_Web_p1_var11\PR9_RPA_Web_p1_var11\resource\147191f8-cd5d-4c31-9929-f7e2a1a25a60\miraash_567.py
+2026-05-04T13:38:06+0300 INFO: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_9\PR9_RPA_Web_p1_var11\PR9_RPA_Web_p1_var11\process\PR9_RPA_Web_p1_var11.json
+2026-05-04T14:17:10+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_10\PR9_RPA_Web_p1_var11\process\PR9_RPA_Web_p1_var11.json
+2026-05-04T14:17:13+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_10\PR9_RPA_Web_p1_var11\resource\370cefee-b0c7-40cf-b1f1-46e8d5fde61d\miraash_567.py
+2026-05-04T14:18:12+0300 INFO: Завершение работы робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_10\PR9_RPA_Web_p1_var11\resource\370cefee-b0c7-40cf-b1f1-46e8d5fde61d\miraash_567.py
+2026-05-04T14:18:15+0300 INFO: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_10\PR9_RPA_Web_p1_var11\process\PR9_RPA_Web_p1_var11.json
+2026-05-04T14:19:46+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_10\PR9_RPA_Web_p1_var11\process\PR9_RPA_Web_p1_var11.json
+2026-05-04T14:19:50+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_10\PR9_RPA_Web_p1_var11\resource\e651727a-6acb-42e4-a237-f2a22aad9447\miraash_567.py
+2026-05-04T14:20:13+0300 INFO: Завершение работы робота
+2026-05-04T14:20:16+0300 INFO: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_10\PR9_RPA_Web_p1_var11\process\PR9_RPA_Web_p1_var11.json
+2026-05-04T14:20:34+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_10\PR9_RPA_Web_p1_var11\process\PR9_RPA_Web_p1_var11.json
+2026-05-04T14:20:37+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_10\PR9_RPA_Web_p1_var11\resource\32ff4c70-7452-48c9-8fab-2b96378f36e6\miraash_567.py
+2026-05-04T14:20:59+0300 INFO: Завершение работы робота
+2026-05-04T14:21:01+0300 INFO: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_10\PR9_RPA_Web_p1_var11\process\PR9_RPA_Web_p1_var11.json
+2026-05-04T14:22:22+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_10\PR9_RPA_Web_p1_var11\process\PR9_RPA_Web_p1_var11.json
+2026-05-04T14:22:25+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_10\PR9_RPA_Web_p1_var11\resource\f4faadc5-aa11-4fd1-99d5-0740379cddc5\miraash_567.py
+2026-05-04T14:22:44+0300 INFO: Завершение работы робота
+2026-05-04T14:22:47+0300 INFO: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_10\PR9_RPA_Web_p1_var11\process\PR9_RPA_Web_p1_var11.json
+2026-05-04T14:23:14+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_10\PR9_RPA_Web_p1_var11\process\PR9_RPA_Web_p1_var11.json
+2026-05-04T14:23:17+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_10\PR9_RPA_Web_p1_var11\resource\bc5089b7-3b43-4d77-9b32-d2d63ed7611c\miraash_567.py
+2026-05-04T14:23:30+0300 INFO: Завершение работы робота
+2026-05-04T14:23:33+0300 INFO: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_10\PR9_RPA_Web_p1_var11\process\PR9_RPA_Web_p1_var11.json
+2026-05-04T14:23:45+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_10\PR9_RPA_Web_p1_var11\process\PR9_RPA_Web_p1_var11.json
+2026-05-04T14:23:48+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_10\PR9_RPA_Web_p1_var11\resource\fae8cc98-d008-4993-b163-e8037ebd802b\miraash_567.py
+2026-05-04T14:24:17+0300 INFO: Завершение работы робота
+2026-05-04T14:24:20+0300 INFO: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_10\PR9_RPA_Web_p1_var11\process\PR9_RPA_Web_p1_var11.json
+2026-05-04T14:29:25+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_10\PR9_RPA_Web_p1_var11\process\PR9_RPA_Web_p1_var11.json
+2026-05-04T14:29:29+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_10\PR9_RPA_Web_p1_var11\resource\e24cebc1-c2c6-4e69-be02-17c0855a96d9\miraash_567.py
+2026-05-04T14:29:31+0300 Окно выполнения: PR9_RPA_Web_p1_var11: ERROR:  ["Failed to get child processes: program not found"]
+2026-05-04T14:30:02+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_10\PR9_RPA_Web_p1_var11\process\PR9_RPA_Web_p1_var11.json
+2026-05-04T14:30:06+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_10\PR9_RPA_Web_p1_var11\resource\2710272a-afed-4fe0-9740-bb18af413064\miraash_567.py
+2026-05-04T14:30:22+0300 ERROR: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_10\PR9_RPA_Web_p1_var11\resource\e24cebc1-c2c6-4e69-be02-17c0855a96d9\miraash_567.py Ошибка: Failed to start the browser
+2026-05-04T14:30:23+0300 INFO: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_10\PR9_RPA_Web_p1_var11\process\PR9_RPA_Web_p1_var11.json
+2026-05-04T14:30:41+0300 ERROR: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_10\PR9_RPA_Web_p1_var11\resource\2710272a-afed-4fe0-9740-bb18af413064\miraash_567.py Ошибка: name 'elements' is not defined
+2026-05-04T14:30:41+0300 Окно выполнения: PR9_RPA_Web_p1_var11: ERROR:  ["name 'elements' is not defined"]
+2026-05-04T14:30:46+0300 ERROR: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_10\PR9_RPA_Web_p1_var11\process\PR9_RPA_Web_p1_var11.json
+2026-05-04T14:32:15+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_10\PR9_RPA_Web_p1_var11\process\PR9_RPA_Web_p1_var11.json
+2026-05-04T14:32:18+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_10\PR9_RPA_Web_p1_var11\resource\ea45df6b-174b-4c9d-a3c3-c3ed05658f67\miraash_567.py
+2026-05-04T14:32:24+0300 Окно выполнения: PR9_RPA_Web_p1_var11: ERROR:  ["Failed to get child processes: program not found"]
+2026-05-04T14:32:30+0300 ERROR: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_10\PR9_RPA_Web_p1_var11\resource\ea45df6b-174b-4c9d-a3c3-c3ed05658f67\miraash_567.py Ошибка: list index out of range
+2026-05-04T14:32:30+0300 INFO: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_10\PR9_RPA_Web_p1_var11\process\PR9_RPA_Web_p1_var11.json
+2026-05-04T14:32:57+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_10\PR9_RPA_Web_p1_var11\process\PR9_RPA_Web_p1_var11.json
+2026-05-04T14:33:00+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_10\PR9_RPA_Web_p1_var11\resource\e8af1888-24b3-42fe-b69e-31fdde678856\miraash_567.py
+2026-05-04T14:33:21+0300 ERROR: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_10\PR9_RPA_Web_p1_var11\resource\e8af1888-24b3-42fe-b69e-31fdde678856\miraash_567.py Ошибка: Элемент не найден: XPATH=//table[@id='incidents_table']/tbody/tr/th[@id='th_title' and text() = 'Unauthorized access attempt']
+2026-05-04T14:33:22+0300 Окно выполнения: PR9_RPA_Web_p1_var11: ERROR:  ["Элемент не найден: XPATH=//table[@id='incidents_table']/tbody/tr/th[@id='th_title' and text() = 'Unauthorized access attempt']"]
+2026-05-04T14:33:39+0300 ERROR: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_10\PR9_RPA_Web_p1_var11\process\PR9_RPA_Web_p1_var11.json
+2026-05-04T14:34:02+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_10\PR9_RPA_Web_p1_var11\process\PR9_RPA_Web_p1_var11.json
+2026-05-04T14:34:06+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_10\PR9_RPA_Web_p1_var11\resource\80913e6a-9cc7-4a64-8178-67a8b48346fd\miraash_567.py
+2026-05-04T14:34:26+0300 ERROR: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_10\PR9_RPA_Web_p1_var11\resource\80913e6a-9cc7-4a64-8178-67a8b48346fd\miraash_567.py Ошибка: Элемент не найден: XPATH=//table[@id='incidents_table']/tbody/tr/th[text() = 'Unauthorized access attempt']
+2026-05-04T14:34:27+0300 Окно выполнения: PR9_RPA_Web_p1_var11: ERROR:  ["Элемент не найден: XPATH=//table[@id='incidents_table']/tbody/tr/th[text() = 'Unauthorized access attempt']"]
+2026-05-04T14:34:37+0300 ERROR: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_10\PR9_RPA_Web_p1_var11\process\PR9_RPA_Web_p1_var11.json
+2026-05-04T14:37:55+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_10\PR9_RPA_Web_p1_var11\process\PR9_RPA_Web_p1_var11.json
+2026-05-04T14:37:58+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_10\PR9_RPA_Web_p1_var11\resource\0882fc44-c0a3-402c-a282-fc4bf2bf5029\miraash_567.py
+2026-05-04T14:38:11+0300 INFO: Завершение работы робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_10\PR9_RPA_Web_p1_var11\resource\0882fc44-c0a3-402c-a282-fc4bf2bf5029\miraash_567.py
+2026-05-04T14:38:11+0300 INFO: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_10\PR9_RPA_Web_p1_var11\process\PR9_RPA_Web_p1_var11.json
+2026-05-04T14:38:18+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_10\PR9_RPA_Web_p1_var11\process\PR9_RPA_Web_p1_var11.json
+2026-05-04T14:38:21+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_10\PR9_RPA_Web_p1_var11\resource\44c3c56c-6b56-4ec1-9015-ef75cf101220\miraash_567.py
+2026-05-04T14:38:32+0300 INFO: Завершение работы робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_10\PR9_RPA_Web_p1_var11\resource\44c3c56c-6b56-4ec1-9015-ef75cf101220\miraash_567.py
+2026-05-04T14:38:32+0300 INFO: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_10\PR9_RPA_Web_p1_var11\process\PR9_RPA_Web_p1_var11.json
+2026-05-04T14:42:05+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_10\PR9_RPA_Web_p1_var11\process\PR9_RPA_Web_p1_var11.json
+2026-05-04T14:42:09+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_10\PR9_RPA_Web_p1_var11\resource\28a8d0c1-fe14-4808-88da-fb30e85072f4\miraash_567.py
+2026-05-04T14:42:36+0300 INFO: Завершение работы робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_10\PR9_RPA_Web_p1_var11\resource\28a8d0c1-fe14-4808-88da-fb30e85072f4\miraash_567.py
+2026-05-04T14:42:38+0300 INFO: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_10\PR9_RPA_Web_p1_var11\process\PR9_RPA_Web_p1_var11.json
+2026-05-04T14:44:18+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_10\PR9_RPA_Web_p1_var11\process\PR9_RPA_Web_p1_var11.json
+2026-05-04T14:44:21+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_10\PR9_RPA_Web_p1_var11\resource\45cf5c55-8622-48db-a9c6-2564fae9d86e\miraash_567.py
+2026-05-04T14:44:32+0300 INFO: Завершение работы робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_10\PR9_RPA_Web_p1_var11\resource\45cf5c55-8622-48db-a9c6-2564fae9d86e\miraash_567.py
+2026-05-04T14:44:32+0300 INFO: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_10\PR9_RPA_Web_p1_var11\process\PR9_RPA_Web_p1_var11.json
+2026-05-04T14:45:48+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_10\PR9_RPA_Web_p1_var11\process\PR9_RPA_Web_p1_var11.json
+2026-05-04T14:45:52+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_10\PR9_RPA_Web_p1_var11\resource\972c160e-8e75-4ffc-b9e7-c8758a2017a8\miraash_567.py
+2026-05-04T14:46:10+0300 INFO: Завершение работы робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_10\PR9_RPA_Web_p1_var11\resource\972c160e-8e75-4ffc-b9e7-c8758a2017a8\miraash_567.py
+2026-05-04T14:46:12+0300 INFO: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_10\PR9_RPA_Web_p1_var11\process\PR9_RPA_Web_p1_var11.json
+2026-05-04T15:06:14+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_10\PR9_RPA_Web_p1_var11\process\PR9_RPA_Web_p1_var11.json
+2026-05-04T15:06:17+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_10\PR9_RPA_Web_p1_var11\resource\703cb1dc-640b-4e5c-b580-950cff14db2e\miraash_567.py
+2026-05-04T15:07:08+0300 ERROR: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_10\PR9_RPA_Web_p1_var11\resource\703cb1dc-640b-4e5c-b580-950cff14db2e\miraash_567.py Ошибка: list index out of range
+2026-05-04T15:07:08+0300 Окно выполнения: PR9_RPA_Web_p1_var11: ERROR:  ["list index out of range"]
+2026-05-04T15:07:25+0300 ERROR: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_10\PR9_RPA_Web_p1_var11\process\PR9_RPA_Web_p1_var11.json
+2026-05-04T15:09:23+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_10\PR9_RPA_Web_p1_var11\process\PR9_RPA_Web_p1_var11.json
+2026-05-04T15:09:25+0300 Окно выполнения: PR9_RPA_Web_p1_var11: ERROR:  ["Failed to get child processes: program not found"]
+2026-05-04T15:09:27+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_10\PR9_RPA_Web_p1_var11\resource\bce410e7-cf10-4528-ba82-49612d31c62b\miraash_567.py
+2026-05-04T15:09:47+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_10\PR9_RPA_Web_p1_var11\process\PR9_RPA_Web_p1_var11.json
+2026-05-04T15:09:50+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_10\PR9_RPA_Web_p1_var11\resource\3218e8d4-40e3-4721-a638-e9c8b270bf64\miraash_567.py
+2026-05-04T15:10:20+0300 ERROR: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_10\PR9_RPA_Web_p1_var11\resource\bce410e7-cf10-4528-ba82-49612d31c62b\miraash_567.py Ошибка: Failed to start the browser
+2026-05-04T15:10:20+0300 INFO: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_10\PR9_RPA_Web_p1_var11\process\PR9_RPA_Web_p1_var11.json
+2026-05-04T15:10:37+0300 ERROR: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_10\PR9_RPA_Web_p1_var11\resource\3218e8d4-40e3-4721-a638-e9c8b270bf64\miraash_567.py Ошибка: list index out of range
+2026-05-04T15:10:37+0300 Окно выполнения: PR9_RPA_Web_p1_var11: ERROR:  ["list index out of range"]
+2026-05-04T15:10:49+0300 ERROR: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_10\PR9_RPA_Web_p1_var11\process\PR9_RPA_Web_p1_var11.json
+2026-05-04T15:16:38+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_10\PR9_RPA_Web_p1_var11\process\PR9_RPA_Web_p1_var11.json
+2026-05-04T15:16:41+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_10\PR9_RPA_Web_p1_var11\resource\70fda9ef-88ee-4512-a0ad-ff4b6c105f08\miraash_567.py
+2026-05-04T15:17:47+0300 ERROR: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_10\PR9_RPA_Web_p1_var11\resource\70fda9ef-88ee-4512-a0ad-ff4b6c105f08\miraash_567.py Ошибка: list index out of range
+2026-05-04T15:17:47+0300 Окно выполнения: PR9_RPA_Web_p1_var11: ERROR:  ["list index out of range"]
+2026-05-04T15:17:53+0300 ERROR: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_10\PR9_RPA_Web_p1_var11\process\PR9_RPA_Web_p1_var11.json
+2026-05-04T15:19:45+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_10\PR9_RPA_Web_p1_var11\process\PR9_RPA_Web_p1_var11.json
+2026-05-04T15:19:48+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_10\PR9_RPA_Web_p1_var11\resource\1d5c59d1-93d3-430d-99e8-3c87b41da7dc\miraash_567.py
+2026-05-04T15:20:51+0300 ERROR: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_10\PR9_RPA_Web_p1_var11\resource\1d5c59d1-93d3-430d-99e8-3c87b41da7dc\miraash_567.py Ошибка: The element is not visible
+2026-05-04T15:20:51+0300 Окно выполнения: PR9_RPA_Web_p1_var11: ERROR:  ["The element is not visible"]
+2026-05-04T15:21:04+0300 ERROR: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_10\PR9_RPA_Web_p1_var11\process\PR9_RPA_Web_p1_var11.json
+2026-05-04T15:22:47+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_10\PR9_RPA_Web_p1_var11\process\PR9_RPA_Web_p1_var11.json
+2026-05-04T15:22:51+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_10\PR9_RPA_Web_p1_var11\resource\6dda2fce-c2e3-43fe-9ffa-52d4525bfb52\miraash_567.py
+2026-05-04T15:25:14+0300 ERROR: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_10\PR9_RPA_Web_p1_var11\resource\6dda2fce-c2e3-43fe-9ffa-52d4525bfb52\miraash_567.py Ошибка: list index out of range
+2026-05-04T15:25:14+0300 Окно выполнения: PR9_RPA_Web_p1_var11: ERROR:  ["list index out of range"]
+2026-05-04T15:25:22+0300 ERROR: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_10\PR9_RPA_Web_p1_var11\process\PR9_RPA_Web_p1_var11.json
+2026-05-04T15:26:47+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_10\PR9_RPA_Web_p1_var11\process\PR9_RPA_Web_p1_var11.json
+2026-05-04T15:26:50+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_10\PR9_RPA_Web_p1_var11\resource\e203ce32-e126-47db-a80c-6678803a1b0a\miraash_567.py
+2026-05-04T15:28:12+0300 ERROR: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_10\PR9_RPA_Web_p1_var11\resource\e203ce32-e126-47db-a80c-6678803a1b0a\miraash_567.py Ошибка: list index out of range
+2026-05-04T15:28:12+0300 Окно выполнения: PR9_RPA_Web_p1_var11: ERROR:  ["list index out of range"]
+2026-05-04T15:28:36+0300 ERROR: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_10\PR9_RPA_Web_p1_var11\process\PR9_RPA_Web_p1_var11.json
+2026-05-04T15:30:44+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_10\PR9_RPA_Web_p1_var11\process\PR9_RPA_Web_p1_var11.json
+2026-05-04T15:30:47+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_10\PR9_RPA_Web_p1_var11\resource\c1e70721-6815-4c63-9349-092ec8fbdd76\miraash_567.py
+2026-05-04T15:31:30+0300 ERROR: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_10\PR9_RPA_Web_p1_var11\resource\c1e70721-6815-4c63-9349-092ec8fbdd76\miraash_567.py Ошибка: list index out of range
+2026-05-04T15:31:30+0300 Окно выполнения: PR9_RPA_Web_p1_var11: ERROR:  ["list index out of range"]
+2026-05-04T15:31:57+0300 ERROR: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_10\PR9_RPA_Web_p1_var11\process\PR9_RPA_Web_p1_var11.json
+2026-05-04T15:32:27+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_10\PR9_RPA_Web_p1_var11\process\PR9_RPA_Web_p1_var11.json
+2026-05-04T15:32:30+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_10\PR9_RPA_Web_p1_var11\resource\6f75c633-0031-47dc-b6fe-f2b9fa8718a5\miraash_567.py
+2026-05-04T15:33:27+0300 ERROR: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_10\PR9_RPA_Web_p1_var11\resource\6f75c633-0031-47dc-b6fe-f2b9fa8718a5\miraash_567.py Ошибка: list index out of range
+2026-05-04T15:33:27+0300 Окно выполнения: PR9_RPA_Web_p1_var11: ERROR:  ["list index out of range"]
+2026-05-04T15:33:29+0300 INFO: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_10\PR9_RPA_Web_p1_var11\process\PR9_RPA_Web_p1_var11.json
+2026-05-04T15:34:16+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_10\PR9_RPA_Web_p1_var11\process\PR9_RPA_Web_p1_var11.json
+2026-05-04T15:34:19+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_10\PR9_RPA_Web_p1_var11\resource\887aefde-6572-4c87-9c93-c3190912318f\miraash_567.py
+2026-05-04T15:35:00+0300 ERROR: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_10\PR9_RPA_Web_p1_var11\resource\887aefde-6572-4c87-9c93-c3190912318f\miraash_567.py Ошибка: list index out of range
+2026-05-04T15:35:00+0300 Окно выполнения: PR9_RPA_Web_p1_var11: ERROR:  ["list index out of range"]
+2026-05-04T15:35:05+0300 ERROR: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_10\PR9_RPA_Web_p1_var11\process\PR9_RPA_Web_p1_var11.json
+2026-05-04T15:35:59+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_10\PR9_RPA_Web_p1_var11\process\PR9_RPA_Web_p1_var11.json
+2026-05-04T15:36:02+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_10\PR9_RPA_Web_p1_var11\resource\49d5a6aa-cd49-47ed-a90a-de0b37351cd6\miraash_567.py
+2026-05-04T15:36:12+0300 INFO: Завершение работы робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_10\PR9_RPA_Web_p1_var11\resource\49d5a6aa-cd49-47ed-a90a-de0b37351cd6\miraash_567.py
+2026-05-04T15:36:13+0300 INFO: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_10\PR9_RPA_Web_p1_var11\process\PR9_RPA_Web_p1_var11.json
+2026-05-04T15:41:43+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_10\PR9_RPA_Web_p1_var11\process\PR9_RPA_Web_p1_var11.json
+2026-05-04T15:41:45+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_10\PR9_RPA_Web_p1_var11\resource\d42e6476-2b7b-47ac-9174-992c1b0710a5\miraash_567.py
+2026-05-04T15:41:56+0300 ERROR: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_10\PR9_RPA_Web_p1_var11\resource\d42e6476-2b7b-47ac-9174-992c1b0710a5\miraash_567.py Ошибка: 'result'
+2026-05-04T15:41:56+0300 Окно выполнения: PR9_RPA_Web_p1_var11: ERROR:  ["'result'"]
+2026-05-04T15:42:12+0300 ERROR: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_10\PR9_RPA_Web_p1_var11\process\PR9_RPA_Web_p1_var11.json
+2026-05-04T15:42:37+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_10\PR9_RPA_Web_p1_var11\process\PR9_RPA_Web_p1_var11.json
+2026-05-04T15:42:40+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_10\PR9_RPA_Web_p1_var11\resource\2cc79fad-ef8a-418e-a318-6f38df7d7117\miraash_567.py
+2026-05-04T15:42:52+0300 INFO: Завершение работы робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_10\PR9_RPA_Web_p1_var11\resource\2cc79fad-ef8a-418e-a318-6f38df7d7117\miraash_567.py
+2026-05-04T15:42:52+0300 INFO: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_10\PR9_RPA_Web_p1_var11\process\PR9_RPA_Web_p1_var11.json
+2026-05-04T15:43:37+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_10\PR9_RPA_Web_p1_var11\process\PR9_RPA_Web_p1_var11.json
+2026-05-04T15:43:39+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_10\PR9_RPA_Web_p1_var11\resource\b273304a-001c-4119-bb66-7c4bf6a83ccc\miraash_567.py
+2026-05-04T15:45:54+0300 INFO: Завершение работы робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_10\PR9_RPA_Web_p1_var11\resource\b273304a-001c-4119-bb66-7c4bf6a83ccc\miraash_567.py
+2026-05-04T15:45:55+0300 INFO: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_10\PR9_RPA_Web_p1_var11\process\PR9_RPA_Web_p1_var11.json
